@@ -1,3 +1,6 @@
+# Covid-19-Preprocessed-Dataset
+Latest Covid-19 Dataset
+
 Coronavirus disease 2019 (COVID-19) time series listing confirmed cases, reported deaths and reported recoveries. Data is disaggregated by country (and sometimes subregion). Coronavirus disease (COVID-19) is caused by the [Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2)][sars2] and has had a worldwide effect. On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the coronavirus illness in over 110 countries and territories around the world at the time.
 
 [covid]: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
@@ -12,14 +15,6 @@ This dataset includes time series data tracking the number of people affected by
 ## Data
 
 Data is in CSV format and updated daily. It is sourced from [this upstream repository](https://github.com/CSSEGISandData/COVID-19) maintained by the amazing team at [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/) (CSSE) who have been doing a great public service from an early point by collating data from around the world.
-
-We have cleaned and normalized that data, for example tidying dates and consolidating several files into normalized time series. We have also added some metadata such as column descriptions and [data packaged it][dp].
-
-You can view the data, its structure as well as download it in alternative formats (e.g. JSON) from the DataHub:
-
-https://datahub.io/core/covid-19
-
-[dp]: https://frictionlessdata.io/data-package/
 
 ### Sources
 
