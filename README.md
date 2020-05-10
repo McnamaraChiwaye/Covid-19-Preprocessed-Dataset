@@ -16,14 +16,6 @@ This dataset includes time series data tracking the number of people affected by
 
 Data is in CSV format and updated daily. It is sourced from [this upstream repository](https://github.com/CSSEGISandData/COVID-19) maintained by the amazing team at [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/) (CSSE) who have been doing a great public service from an early point by collating data from around the world.
 
-We have cleaned and normalized that data, for example tidying dates and consolidating several files into normalized time series. We have also added some metadata such as column descriptions and [data packaged it][dp].
-
-You can view the data, its structure as well as download it in alternative formats (e.g. JSON) from the DataHub:
-
-https://datahub.io/core/covid-19
-
-[dp]: https://frictionlessdata.io/data-package/
-
 ### Sources
 
 The upstream dataset currently lists the following upstream datasources:
