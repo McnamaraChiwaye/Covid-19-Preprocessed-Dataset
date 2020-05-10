@@ -8218,7 +8218,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/13/20,Ukraine,3,1,0,2,2,1,0
 3/13/20,United Arab Emirates,85,0,17,68,0,0,0
 3/13/20,United Kingdom,802,10,19,773,343,1,0
-3/13/20,Uruguay,0,0,0,0,0,0,0
+3/13/20,Uruguay,4,0,0,4,4,0,0
 3/13/20,Uzbekistan,0,0,0,0,0,0,0
 3/13/20,Venezuela,0,0,0,0,0,0,0
 3/13/20,Vietnam,47,0,16,31,8,0,0
@@ -8405,7 +8405,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/14/20,Ukraine,3,1,0,2,0,0,0
 3/14/20,United Arab Emirates,85,0,17,68,0,0,0
 3/14/20,United Kingdom,1144,28,19,1097,342,18,0
-3/14/20,Uruguay,4,0,0,4,4,0,0
+3/14/20,Uruguay,6,0,0,6,2,0,0
 3/14/20,Uzbekistan,0,0,0,0,0,0,0
 3/14/20,Venezuela,2,0,0,2,2,0,0
 3/14/20,Vietnam,53,0,16,37,6,0,0
@@ -8592,7 +8592,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/15/20,Ukraine,3,1,0,2,0,0,0
 3/15/20,United Arab Emirates,98,0,23,75,13,0,6
 3/15/20,United Kingdom,1145,43,19,1083,1,15,0
-3/15/20,Uruguay,4,0,0,4,0,0,0
+3/15/20,Uruguay,8,0,0,8,2,0,0
 3/15/20,Uzbekistan,1,0,0,1,1,0,0
 3/15/20,Venezuela,10,0,0,10,8,0,0
 3/15/20,Vietnam,56,0,16,40,3,0,0
@@ -8779,7 +8779,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/16/20,Ukraine,7,1,0,6,4,0,0
 3/16/20,United Arab Emirates,98,0,23,75,0,0,0
 3/16/20,United Kingdom,1551,66,21,1464,406,23,2
-3/16/20,Uruguay,8,0,0,8,4,0,0
+3/16/20,Uruguay,29,0,0,29,21,0,0
 3/16/20,Uzbekistan,6,0,0,6,5,0,0
 3/16/20,Venezuela,17,0,0,17,7,0,0
 3/16/20,Vietnam,61,0,16,45,5,0,0
@@ -8966,7 +8966,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/17/20,Ukraine,14,2,0,12,7,1,0
 3/17/20,United Arab Emirates,98,0,23,75,0,0,0
 3/17/20,United Kingdom,1960,82,53,1825,409,16,32
-3/17/20,Uruguay,29,0,0,29,21,0,0
+3/17/20,Uruguay,50,0,0,50,21,0,0
 3/17/20,Uzbekistan,10,0,0,10,4,0,0
 3/17/20,Venezuela,33,0,0,33,16,0,0
 3/17/20,Vietnam,66,0,16,50,5,0,0
@@ -9153,7 +9153,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/18/20,Ukraine,14,2,0,12,0,0,0
 3/18/20,United Arab Emirates,113,0,26,87,15,0,3
 3/18/20,United Kingdom,2642,116,67,2459,682,34,14
-3/18/20,Uruguay,50,0,0,50,21,0,0
+3/18/20,Uruguay,79,0,0,79,29,0,0
 3/18/20,Uzbekistan,15,0,0,15,5,0,0
 3/18/20,Venezuela,36,0,0,36,3,0,0
 3/18/20,Vietnam,75,0,16,59,9,0,0
@@ -9340,7 +9340,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/19/20,Ukraine,16,2,0,14,2,0,0
 3/19/20,United Arab Emirates,140,0,31,109,27,0,5
 3/19/20,United Kingdom,2716,159,67,2490,74,43,0
-3/19/20,Uruguay,79,0,0,79,29,0,0
+3/19/20,Uruguay,94,0,0,94,15,0,0
 3/19/20,Uzbekistan,23,0,0,23,8,0,0
 3/19/20,Venezuela,42,0,0,42,6,0,0
 3/19/20,Vietnam,85,0,16,69,10,0,0
@@ -9714,7 +9714,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/20/20,Ukraine,29,3,0,26,29,3,0
 3/20/20,United Arab Emirates,140,2,31,107,119,2,26
 3/20/20,United Kingdom,4014,195,67,3752,3974,195,59
-3/20/20,Uruguay,94,0,0,94,94,0,0
+3/20/20,Uruguay,110,0,0,110,110,0,0
 3/20/20,Uzbekistan,33,0,0,33,33,0,0
 3/20/20,Venezuela,42,0,0,42,42,0,0
 3/20/20,Vietnam,91,0,16,75,75,0,0
@@ -9901,7 +9901,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/21/20,Ukraine,47,3,1,43,18,0,1
 3/21/20,United Arab Emirates,153,2,38,113,13,0,7
 3/21/20,United Kingdom,5067,251,67,4749,1053,56,0
-3/21/20,Uruguay,110,0,0,110,16,0,0
+3/21/20,Uruguay,135,0,0,135,25,0,0
 3/21/20,Uzbekistan,43,0,0,43,10,0,0
 3/21/20,Venezuela,70,0,0,70,28,0,0
 3/21/20,Vietnam,94,0,17,77,3,0,1
@@ -10088,7 +10088,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/22/20,Ukraine,73,3,1,69,26,0,0
 3/22/20,United Arab Emirates,153,2,38,113,0,0,0
 3/22/20,United Kingdom,5745,286,67,5392,678,35,0
-3/22/20,Uruguay,158,0,0,158,48,0,0
+3/22/20,Uruguay,158,0,0,158,23,0,0
 3/22/20,Uzbekistan,43,0,0,43,0,0,0
 3/22/20,Venezuela,70,0,15,55,0,0,15
 3/22/20,Vietnam,113,0,17,96,19,0,0
@@ -10462,7 +10462,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/24/20,Ukraine,97,3,1,93,24,0,0
 3/24/20,United Arab Emirates,248,2,45,201,50,0,7
 3/24/20,United Kingdom,8164,509,140,7515,1438,149,73
-3/24/20,Uruguay,162,0,0,162,0,0,0
+3/24/20,Uruguay,189,0,0,189,27,0,0
 3/24/20,Uzbekistan,50,0,0,50,4,0,0
 3/24/20,Venezuela,84,0,15,69,7,0,0
 3/24/20,Vietnam,134,0,17,117,11,0,0
@@ -10649,7 +10649,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/25/20,Ukraine,145,5,1,139,48,2,0
 3/25/20,United Arab Emirates,333,2,52,279,85,0,7
 3/25/20,United Kingdom,9640,695,140,8805,1476,186,0
-3/25/20,Uruguay,189,0,0,189,27,0,0
+3/25/20,Uruguay,217,0,0,217,28,0,0
 3/25/20,Uzbekistan,60,0,0,60,10,0,0
 3/25/20,Venezuela,91,0,15,76,7,0,0
 3/25/20,Vietnam,141,0,17,124,7,0,0
@@ -10836,7 +10836,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/26/20,Ukraine,196,5,1,190,51,0,0
 3/26/20,United Arab Emirates,333,2,52,279,0,0,0
 3/26/20,United Kingdom,11812,879,150,10783,2172,184,10
-3/26/20,Uruguay,217,0,0,217,28,0,0
+3/26/20,Uruguay,238,0,0,238,21,0,0
 3/26/20,Uzbekistan,75,0,0,75,15,0,0
 3/26/20,Venezuela,107,0,15,92,16,0,0
 3/26/20,Vietnam,153,0,20,133,12,0,3
@@ -11023,7 +11023,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/27/20,Ukraine,310,5,5,300,114,0,4
 3/27/20,United Arab Emirates,405,2,52,351,72,0,0
 3/27/20,United Kingdom,14745,1163,151,13431,2933,284,1
-3/27/20,Uruguay,238,0,0,238,21,0,0
+3/27/20,Uruguay,274,0,0,274,36,0,0
 3/27/20,Uzbekistan,88,1,5,82,13,1,5
 3/27/20,Venezuela,107,1,31,75,0,1,16
 3/27/20,Vietnam,163,0,20,143,10,0,0
@@ -11210,7 +11210,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/28/20,Ukraine,356,9,5,342,46,4,0
 3/28/20,United Arab Emirates,468,2,52,414,63,0,0
 3/28/20,United Kingdom,17312,1457,151,15704,2567,294,0
-3/28/20,Uruguay,274,0,0,274,36,0,0
+3/28/20,Uruguay,303,1,0,302,29,1,0
 3/28/20,Uzbekistan,104,2,5,97,16,1,0
 3/28/20,Venezuela,119,2,39,78,12,1,8
 3/28/20,Vietnam,174,0,21,153,11,0,1
@@ -11397,7 +11397,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/29/20,Ukraine,475,10,6,459,119,1,1
 3/29/20,United Arab Emirates,570,3,58,509,102,1,6
 3/29/20,United Kingdom,19780,1672,151,17957,2468,215,0
-3/29/20,Uruguay,304,1,0,303,30,1,0
+3/29/20,Uruguay,309,1,0,308,6,0,0
 3/29/20,Uzbekistan,144,2,7,135,40,0,2
 3/29/20,Venezuela,119,2,39,78,0,0,0
 3/29/20,Vietnam,188,0,25,163,14,0,4
@@ -11771,7 +11771,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/30/20,Ukraine,548,13,8,527,547,13,8
 3/30/20,United Arab Emirates,611,5,61,545,584,5,56
 3/30/20,United Kingdom,22453,2046,171,20236,22402,2046,163
-3/30/20,Uruguay,310,1,0,309,310,1,0
+3/30/20,Uruguay,320,1,0,319,320,1,0
 3/30/20,Uzbekistan,149,2,7,140,149,2,7
 3/30/20,Venezuela,135,3,39,93,135,3,39
 3/30/20,Vietnam,203,0,55,148,187,0,39
@@ -11958,7 +11958,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/31/20,Ukraine,645,17,10,618,97,4,2
 3/31/20,United Arab Emirates,664,6,61,597,53,1,0
 3/31/20,United Kingdom,25481,2429,179,22873,3028,383,8
-3/31/20,Uruguay,338,1,41,296,28,0,41
+3/31/20,Uruguay,338,1,41,296,18,0,41
 3/31/20,Uzbekistan,172,2,7,163,23,0,0
 3/31/20,Venezuela,135,3,39,93,0,0,0
 3/31/20,Vietnam,212,0,58,154,9,0,3
@@ -13267,7 +13267,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/1/20,Ukraine,794,20,13,761,793,20,13
 4/1/20,United Arab Emirates,814,8,61,745,769,8,54
 4/1/20,United Kingdom,29865,3100,179,26586,29543,3097,161
-4/1/20,Uruguay,338,2,41,295,338,2,41
+4/1/20,Uruguay,350,2,62,286,350,2,62
 4/1/20,Uzbekistan,181,2,12,167,181,2,12
 4/1/20,Venezuela,143,3,41,99,143,3,41
 4/1/20,Vietnam,218,0,63,155,188,0,47
@@ -13454,7 +13454,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/10/20,Ukraine,2203,69,61,2073,1409,49,48
 4/10/20,United Arab Emirates,3360,16,418,2926,2546,8,357
 4/10/20,United Kingdom,74605,10776,588,63241,44740,7676,409
-4/10/20,Uruguay,473,7,206,260,135,5,165
+4/10/20,Uruguay,494,7,214,273,144,5,152
 4/10/20,Uzbekistan,624,3,42,579,443,1,30
 4/10/20,Venezuela,171,9,84,78,28,6,43
 4/10/20,Vietnam,257,0,144,113,39,0,81
@@ -13641,7 +13641,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/11/20,Ukraine,2511,73,79,2359,308,4,18
 4/11/20,United Arab Emirates,3736,20,588,3128,376,4,170
 4/11/20,United Kingdom,79874,11616,622,67636,5269,840,34
-4/11/20,Uruguay,494,7,214,273,21,0,8
+4/11/20,Uruguay,501,7,224,270,7,0,10
 4/11/20,Uzbekistan,767,4,42,721,143,1,0
 4/11/20,Venezuela,175,9,93,73,4,0,9
 4/11/20,Vietnam,258,0,144,114,1,0,0
@@ -13828,7 +13828,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/12/20,Ukraine,2777,83,89,2605,266,10,10
 4/12/20,United Arab Emirates,4123,22,680,3421,387,2,92
 4/12/20,United Kingdom,85206,12302,626,72278,5332,686,4
-4/12/20,Uruguay,480,7,231,242,0,0,17
+4/12/20,Uruguay,480,7,231,242,0,0,7
 4/12/20,Uzbekistan,865,4,66,795,98,0,24
 4/12/20,Venezuela,181,9,93,79,6,0,0
 4/12/20,Vietnam,262,0,144,118,4,0,0
@@ -14015,7 +14015,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/13/20,Ukraine,3102,93,97,2912,325,10,8
 4/13/20,United Arab Emirates,4521,25,852,3644,398,3,172
 4/13/20,United Kingdom,89570,13047,304,76219,4364,745,-322
-4/13/20,Uruguay,480,8,231,241,0,1,0
+4/13/20,Uruguay,483,8,248,227,3,1,17
 4/13/20,Uzbekistan,998,4,85,909,133,0,19
 4/13/20,Venezuela,189,9,110,70,8,0,17
 4/13/20,Vietnam,265,0,146,119,3,0,2
@@ -14202,7 +14202,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/14/20,Ukraine,3372,98,119,3155,270,5,22
 4/14/20,United Arab Emirates,4933,28,933,3972,412,3,81
 4/14/20,United Kingdom,94845,14095,323,80427,5275,1048,19
-4/14/20,Uruguay,483,8,248,227,3,0,17
+4/14/20,Uruguay,492,8,260,224,9,0,12
 4/14/20,Uzbekistan,1165,4,99,1062,167,0,14
 4/14/20,Venezuela,189,9,110,70,0,0,0
 4/14/20,Vietnam,266,0,169,97,1,0,23
@@ -14389,7 +14389,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/15/20,Ukraine,3764,108,143,3513,392,10,24
 4/15/20,United Arab Emirates,5365,33,1034,4298,432,5,101
 4/15/20,United Kingdom,99483,14941,368,84174,4638,846,45
-4/15/20,Uruguay,492,8,260,224,9,0,12
+4/15/20,Uruguay,493,9,272,212,1,1,12
 4/15/20,Uzbekistan,1302,4,107,1191,137,0,8
 4/15/20,Venezuela,197,9,111,77,8,0,1
 4/15/20,Vietnam,267,0,171,96,1,0,2
@@ -14576,7 +14576,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/16/20,Ukraine,4161,116,186,3859,397,8,43
 4/16/20,United Arab Emirates,5825,35,1095,4695,460,2,61
 4/16/20,United Kingdom,104145,15974,375,87796,4662,1033,7
-4/16/20,Uruguay,502,9,286,207,10,1,26
+4/16/20,Uruguay,502,9,286,207,9,0,14
 4/16/20,Uzbekistan,1349,4,129,1216,47,0,22
 4/16/20,Venezuela,204,9,111,84,7,0,0
 4/16/20,Vietnam,268,0,177,91,1,0,6
@@ -14763,7 +14763,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/17/20,Ukraine,4662,125,246,4291,501,9,60
 4/17/20,United Arab Emirates,6302,37,1188,5077,477,2,93
 4/17/20,United Kingdom,109769,16910,394,92465,5624,936,19
-4/17/20,Uruguay,502,9,286,207,0,0,0
+4/17/20,Uruguay,508,9,294,205,6,0,8
 4/17/20,Uzbekistan,1405,4,156,1245,56,0,27
 4/17/20,Venezuela,204,9,111,84,0,0,0
 4/17/20,Vietnam,268,0,198,70,0,0,21
@@ -14950,7 +14950,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/18/20,Ukraine,5106,133,275,4698,444,8,29
 4/18/20,United Arab Emirates,6302,37,1188,5077,0,0,0
 4/18/20,United Kingdom,115314,18028,414,96872,5545,1118,20
-4/18/20,Uruguay,508,9,294,205,6,0,8
+4/18/20,Uruguay,517,9,298,210,9,0,4
 4/18/20,Uzbekistan,1490,5,194,1291,85,1,38
 4/18/20,Venezuela,227,9,113,105,23,0,2
 4/18/20,Vietnam,268,0,201,67,0,0,3
@@ -15137,7 +15137,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/19/20,Ukraine,5449,141,347,4961,343,8,72
 4/19/20,United Arab Emirates,6781,41,1286,5454,479,4,98
 4/19/20,United Kingdom,121172,18527,436,102209,5858,499,22
-4/19/20,Uruguay,517,10,298,209,9,1,4
+4/19/20,Uruguay,528,10,298,220,11,1,0
 4/19/20,Uzbekistan,1565,5,225,1335,75,0,31
 4/19/20,Venezuela,256,9,117,130,29,0,4
 4/19/20,Vietnam,268,0,202,66,0,0,1
@@ -15324,7 +15324,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/2/20,Ukraine,897,22,19,856,0,-119,-328
 4/2/20,United Arab Emirates,1024,8,96,920,0,-33,-1190
 4/2/20,United Kingdom,34173,3752,192,30229,0,-14775,-244
-4/2/20,Uruguay,350,4,62,284,0,-6,-236
+4/2/20,Uruguay,369,4,68,297,0,-6,-230
 4/2/20,Uzbekistan,205,2,25,178,0,-3,-200
 4/2/20,Venezuela,146,5,43,98,0,-4,-74
 4/2/20,Vietnam,233,0,75,158,0,0,-127
@@ -15511,7 +15511,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/20/20,Ukraine,5710,151,359,5200,4813,129,340
 4/20/20,United Arab Emirates,7265,43,1360,5862,6241,35,1264
 4/20/20,United Kingdom,125856,19092,446,106318,91683,15340,254
-4/20/20,Uruguay,535,10,313,212,185,6,251
+4/20/20,Uruguay,535,10,313,212,166,6,245
 4/20/20,Uzbekistan,1627,5,261,1361,1422,3,236
 4/20/20,Venezuela,256,9,117,130,110,4,74
 4/20/20,Vietnam,268,0,214,54,35,0,139
@@ -15698,7 +15698,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/21/20,Ukraine,6125,161,367,5597,415,10,8
 4/21/20,United Arab Emirates,7755,46,1443,6266,490,3,83
 4/21/20,United Kingdom,130172,20264,638,109270,4316,1172,192
-4/21/20,Uruguay,535,11,313,211,0,1,0
+4/21/20,Uruguay,543,12,324,207,8,2,11
 4/21/20,Uzbekistan,1678,6,357,1315,51,1,96
 4/21/20,Venezuela,285,10,117,158,29,1,0
 4/21/20,Vietnam,268,0,216,52,0,0,2
@@ -15885,7 +15885,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/22/20,Ukraine,6592,174,424,5994,467,13,57
 4/22/20,United Arab Emirates,8238,52,1546,6640,483,6,103
 4/22/20,United Kingdom,134638,21111,683,112844,4466,847,45
-4/22/20,Uruguay,543,12,324,207,8,1,11
+4/22/20,Uruguay,549,12,337,200,6,0,13
 4/22/20,Uzbekistan,1716,7,450,1259,38,1,93
 4/22/20,Venezuela,288,10,122,156,3,0,5
 4/22/20,Vietnam,268,0,223,45,0,0,7
@@ -16072,7 +16072,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/23/20,Ukraine,7170,187,504,6479,578,13,80
 4/23/20,United Arab Emirates,8756,56,1637,7063,518,4,91
 4/23/20,United Kingdom,139246,21840,712,116694,4608,729,29
-4/23/20,Uruguay,557,12,354,191,14,0,30
+4/23/20,Uruguay,557,12,354,191,8,0,17
 4/23/20,Uzbekistan,1758,7,561,1190,42,0,111
 4/23/20,Venezuela,311,10,126,175,23,0,4
 4/23/20,Vietnam,268,0,224,44,0,0,1
@@ -17381,7 +17381,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/3/20,Ukraine,1072,27,22,1023,0,-223,-1081
 4/3/20,United Arab Emirates,1264,9,108,1147,0,-89,-2221
 4/3/20,United Kingdom,38689,4467,208,34014,0,-21699,-649
-4/3/20,Uruguay,369,4,68,297,0,-11,-344
+4/3/20,Uruguay,386,4,86,296,0,-11,-326
 4/3/20,Uzbekistan,227,2,25,200,0,-7,-1071
 4/3/20,Venezuela,153,7,52,94,0,-3,-90
 4/3/20,Vietnam,237,0,85,152,0,0,-137
@@ -17568,7 +17568,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/30/20,Ukraine,10406,261,1238,8907,9334,234,1216
 4/30/20,United Arab Emirates,12481,105,2429,9947,11217,96,2321
 4/30/20,United Kingdom,172481,26842,859,144780,133792,22375,651
-4/30/20,Uruguay,643,17,417,209,274,13,349
+4/30/20,Uruguay,643,17,417,209,257,13,331
 4/30/20,Uzbekistan,2039,9,1133,897,1812,7,1108
 4/30/20,Venezuela,333,16,142,175,180,9,90
 4/30/20,Vietnam,270,0,219,51,33,0,134
@@ -17942,7 +17942,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/5/20,Ukraine,1308,37,28,1243,83,5,3
 4/5/20,United Arab Emirates,1799,10,144,1645,294,0,19
 4/5/20,United Kingdom,48436,5874,229,42333,5959,646,14
-4/5/20,Uruguay,400,5,93,302,0,0,0
+4/5/20,Uruguay,406,6,104,296,6,1,11
 4/5/20,Uzbekistan,342,2,30,310,76,0,5
 4/5/20,Venezuela,159,7,52,100,4,0,0
 4/5/20,Vietnam,241,0,90,151,1,0,0
@@ -18129,7 +18129,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/6/20,Ukraine,1319,38,28,1253,11,1,0
 4/6/20,United Arab Emirates,2076,11,167,1898,277,1,23
 4/6/20,United Kingdom,52279,6445,287,45547,3843,571,58
-4/6/20,Uruguay,406,6,104,296,6,1,11
+4/6/20,Uruguay,415,6,123,286,9,0,19
 4/6/20,Uzbekistan,457,2,30,425,115,0,0
 4/6/20,Venezuela,165,7,65,93,6,0,13
 4/6/20,Vietnam,245,0,95,150,4,0,5
@@ -18316,7 +18316,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/7/20,Ukraine,1462,45,28,1389,143,7,0
 4/7/20,United Arab Emirates,2359,12,186,2161,283,1,19
 4/7/20,United Kingdom,55949,7483,325,48141,3670,1038,38
-4/7/20,Uruguay,424,7,150,267,18,1,46
+4/7/20,Uruguay,424,7,150,267,9,1,27
 4/7/20,Uzbekistan,520,2,30,488,63,0,0
 4/7/20,Venezuela,165,7,65,93,0,0,0
 4/7/20,Vietnam,249,0,123,126,4,0,28
@@ -18503,7 +18503,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/8/20,Ukraine,1668,52,35,1581,206,7,7
 4/8/20,United Arab Emirates,2659,12,239,2408,300,0,53
 4/8/20,United Kingdom,61474,8519,345,52610,5525,1036,20
-4/8/20,Uruguay,424,7,150,267,0,0,0
+4/8/20,Uruguay,456,7,192,257,32,0,42
 4/8/20,Uzbekistan,545,3,30,512,25,1,0
 4/8/20,Venezuela,167,9,65,93,2,2,0
 4/8/20,Vietnam,251,0,126,125,2,0,3
@@ -18690,7 +18690,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/9/20,Ukraine,1892,57,45,1790,224,5,10
 4/9/20,United Arab Emirates,2990,14,268,2708,331,2,29
 4/9/20,United Kingdom,65872,9623,359,55890,4398,1104,14
-4/9/20,Uruguay,456,7,192,257,32,0,42
+4/9/20,Uruguay,473,7,206,260,17,0,14
 4/9/20,Uzbekistan,582,3,38,541,37,0,8
 4/9/20,Venezuela,171,9,84,78,4,0,19
 4/9/20,Vietnam,255,0,128,127,4,0,2
@@ -18877,7 +18877,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/1/20,Ukraine,10861,272,1413,9176,8969,215,1368
 5/1/20,United Arab Emirates,13038,111,2543,10384,10048,97,2275
 5/1/20,United Kingdom,178685,27583,892,150210,112813,17960,533
-5/1/20,Uruguay,648,17,435,196,192,10,243
+5/1/20,Uruguay,648,17,435,196,175,10,229
 5/1/20,Uzbekistan,2086,9,1212,865,1504,6,1174
 5/1/20,Venezuela,335,10,148,177,164,1,64
 5/1/20,Vietnam,270,0,219,51,15,0,91
