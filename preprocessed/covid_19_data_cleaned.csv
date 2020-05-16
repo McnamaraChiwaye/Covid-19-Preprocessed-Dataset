@@ -112,6 +112,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Afghanistan,33.0,65.0,4687,558,122,4007
 5/12/20,,Afghanistan,33.0,65.0,4963,610,127,4226
 5/13/20,,Afghanistan,33.0,65.0,5226,648,132,4446
+5/14/20,,Afghanistan,33.0,65.0,5639,691,136,4812
+5/15/20,,Afghanistan,33.0,65.0,6053,745,153,5155
 1/22/20,,Albania,41.1533,20.1683,0,0,0,0
 1/23/20,,Albania,41.1533,20.1683,0,0,0,0
 1/24/20,,Albania,41.1533,20.1683,0,0,0,0
@@ -225,6 +227,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Albania,41.1533,20.1683,872,654,31,187
 5/12/20,,Albania,41.1533,20.1683,876,682,31,163
 5/13/20,,Albania,41.1533,20.1683,880,688,31,161
+5/14/20,,Albania,41.1533,20.1683,898,694,31,173
+5/15/20,,Albania,41.1533,20.1683,916,705,31,180
 1/22/20,,Algeria,28.0339,1.6596,0,0,0,0
 1/23/20,,Algeria,28.0339,1.6596,0,0,0,0
 1/24/20,,Algeria,28.0339,1.6596,0,0,0,0
@@ -338,6 +342,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Algeria,28.0339,1.6596,5891,2841,507,2543
 5/12/20,,Algeria,28.0339,1.6596,6067,2998,515,2554
 5/13/20,,Algeria,28.0339,1.6596,6253,3058,522,2673
+5/14/20,,Algeria,28.0339,1.6596,6442,3158,529,2755
+5/15/20,,Algeria,28.0339,1.6596,6629,3271,536,2822
 1/22/20,,Andorra,42.5063,1.5218,0,0,0,0
 1/23/20,,Andorra,42.5063,1.5218,0,0,0,0
 1/24/20,,Andorra,42.5063,1.5218,0,0,0,0
@@ -451,6 +457,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Andorra,42.5063,1.5218,755,550,48,157
 5/12/20,,Andorra,42.5063,1.5218,758,568,48,142
 5/13/20,,Andorra,42.5063,1.5218,760,576,49,135
+5/14/20,,Andorra,42.5063,1.5218,761,596,49,116
+5/15/20,,Andorra,42.5063,1.5218,761,604,49,108
 1/22/20,,Angola,-11.2027,17.8739,0,0,0,0
 1/23/20,,Angola,-11.2027,17.8739,0,0,0,0
 1/24/20,,Angola,-11.2027,17.8739,0,0,0,0
@@ -564,6 +572,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Angola,-11.2027,17.8739,45,13,2,30
 5/12/20,,Angola,-11.2027,17.8739,45,13,2,30
 5/13/20,,Angola,-11.2027,17.8739,45,14,2,29
+5/14/20,,Angola,-11.2027,17.8739,48,14,2,32
+5/15/20,,Angola,-11.2027,17.8739,48,17,2,29
 1/22/20,,Antigua and Barbuda,17.0608,-61.7964,0,0,0,0
 1/23/20,,Antigua and Barbuda,17.0608,-61.7964,0,0,0,0
 1/24/20,,Antigua and Barbuda,17.0608,-61.7964,0,0,0,0
@@ -677,6 +687,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Antigua and Barbuda,17.0608,-61.7964,25,19,3,3
 5/12/20,,Antigua and Barbuda,17.0608,-61.7964,25,19,3,3
 5/13/20,,Antigua and Barbuda,17.0608,-61.7964,25,19,3,3
+5/14/20,,Antigua and Barbuda,17.0608,-61.7964,25,19,3,3
+5/15/20,,Antigua and Barbuda,17.0608,-61.7964,25,19,3,3
 1/22/20,,Argentina,-38.4161,-63.6167,0,0,0,0
 1/23/20,,Argentina,-38.4161,-63.6167,0,0,0,0
 1/24/20,,Argentina,-38.4161,-63.6167,0,0,0,0
@@ -790,6 +802,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Argentina,-38.4161,-63.6167,6278,1837,314,4127
 5/12/20,,Argentina,-38.4161,-63.6167,6563,1862,319,4382
 5/13/20,,Argentina,-38.4161,-63.6167,6879,2266,329,4284
+5/14/20,,Argentina,-38.4161,-63.6167,7134,2385,353,4396
+5/15/20,,Argentina,-38.4161,-63.6167,7479,2497,356,4626
 1/22/20,,Armenia,40.0691,45.0382,0,0,0,0
 1/23/20,,Armenia,40.0691,45.0382,0,0,0,0
 1/24/20,,Armenia,40.0691,45.0382,0,0,0,0
@@ -903,6 +917,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Armenia,40.0691,45.0382,3392,1359,46,1987
 5/12/20,,Armenia,40.0691,45.0382,3538,1430,47,2061
 5/13/20,,Armenia,40.0691,45.0382,3718,1500,48,2170
+5/14/20,,Armenia,40.0691,45.0382,3860,1572,49,2239
+5/15/20,,Armenia,40.0691,45.0382,4044,1666,52,2326
 1/22/20,Australian Capital Territory,Australia,-35.4735,149.0124,0,0,0,0
 1/23/20,Australian Capital Territory,Australia,-35.4735,149.0124,0,0,0,0
 1/24/20,Australian Capital Territory,Australia,-35.4735,149.0124,0,0,0,0
@@ -1016,6 +1032,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Australian Capital Territory,Australia,-35.4735,149.0124,107,104,3,0
 5/12/20,Australian Capital Territory,Australia,-35.4735,149.0124,107,104,3,0
 5/13/20,Australian Capital Territory,Australia,-35.4735,149.0124,107,104,3,0
+5/14/20,Australian Capital Territory,Australia,-35.4735,149.0124,107,104,3,0
+5/15/20,Australian Capital Territory,Australia,-35.4735,149.0124,107,104,3,0
 1/22/20,New South Wales,Australia,-33.8688,151.2093,0,0,0,0
 1/23/20,New South Wales,Australia,-33.8688,151.2093,0,0,0,0
 1/24/20,New South Wales,Australia,-33.8688,151.2093,0,0,0,0
@@ -1129,6 +1147,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,New South Wales,Australia,-33.8688,151.2093,3053,2543,44,466
 5/12/20,New South Wales,Australia,-33.8688,151.2093,3059,2571,45,443
 5/13/20,New South Wales,Australia,-33.8688,151.2093,3063,2595,45,423
+5/14/20,New South Wales,Australia,-33.8688,151.2093,3071,2605,45,421
+5/15/20,New South Wales,Australia,-33.8688,151.2093,3074,2611,45,418
 1/22/20,Northern Territory,Australia,-12.4634,130.8456,0,0,0,0
 1/23/20,Northern Territory,Australia,-12.4634,130.8456,0,0,0,0
 1/24/20,Northern Territory,Australia,-12.4634,130.8456,0,0,0,0
@@ -1242,6 +1262,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Northern Territory,Australia,-12.4634,130.8456,29,27,0,2
 5/12/20,Northern Territory,Australia,-12.4634,130.8456,29,27,0,2
 5/13/20,Northern Territory,Australia,-12.4634,130.8456,29,27,0,2
+5/14/20,Northern Territory,Australia,-12.4634,130.8456,29,27,0,2
+5/15/20,Northern Territory,Australia,-12.4634,130.8456,29,27,0,2
 1/22/20,Queensland,Australia,-28.0167,153.4,0,0,0,0
 1/23/20,Queensland,Australia,-28.0167,153.4,0,0,0,0
 1/24/20,Queensland,Australia,-28.0167,153.4,0,0,0,0
@@ -1355,6 +1377,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Queensland,Australia,-28.0167,153.4,1051,1027,6,18
 5/12/20,Queensland,Australia,-28.0167,153.4,1052,1028,6,18
 5/13/20,Queensland,Australia,-28.0167,153.4,1051,1030,6,15
+5/14/20,Queensland,Australia,-28.0167,153.4,1054,1031,6,17
+5/15/20,Queensland,Australia,-28.0167,153.4,1055,1036,6,13
 1/22/20,South Australia,Australia,-34.9285,138.6007,0,0,0,0
 1/23/20,South Australia,Australia,-34.9285,138.6007,0,0,0,0
 1/24/20,South Australia,Australia,-34.9285,138.6007,0,0,0,0
@@ -1468,6 +1492,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,South Australia,Australia,-34.9285,138.6007,439,434,4,1
 5/12/20,South Australia,Australia,-34.9285,138.6007,439,434,4,1
 5/13/20,South Australia,Australia,-34.9285,138.6007,439,434,4,1
+5/14/20,South Australia,Australia,-34.9285,138.6007,439,434,4,1
+5/15/20,South Australia,Australia,-34.9285,138.6007,439,435,4,0
 1/22/20,Tasmania,Australia,-41.4545,145.9707,0,0,0,0
 1/23/20,Tasmania,Australia,-41.4545,145.9707,0,0,0,0
 1/24/20,Tasmania,Australia,-41.4545,145.9707,0,0,0,0
@@ -1581,6 +1607,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Tasmania,Australia,-41.4545,145.9707,227,182,13,32
 5/12/20,Tasmania,Australia,-41.4545,145.9707,227,184,13,30
 5/13/20,Tasmania,Australia,-41.4545,145.9707,227,184,13,30
+5/14/20,Tasmania,Australia,-41.4545,145.9707,227,188,13,26
+5/15/20,Tasmania,Australia,-41.4545,145.9707,228,191,13,24
 1/22/20,Victoria,Australia,-37.8136,144.9631,0,0,0,0
 1/23/20,Victoria,Australia,-37.8136,144.9631,0,0,0,0
 1/24/20,Victoria,Australia,-37.8136,144.9631,0,0,0,0
@@ -1694,6 +1722,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Victoria,Australia,-37.8136,144.9631,1511,1360,18,133
 5/12/20,Victoria,Australia,-37.8136,144.9631,1514,1385,18,111
 5/13/20,Victoria,Australia,-37.8136,144.9631,1521,1385,18,118
+5/14/20,Victoria,Australia,-37.8136,144.9631,1540,1407,18,115
+5/15/20,Victoria,Australia,-37.8136,144.9631,1551,1417,18,116
 1/22/20,Western Australia,Australia,-31.9505,115.8605,0,0,0,0
 1/23/20,Western Australia,Australia,-31.9505,115.8605,0,0,0,0
 1/24/20,Western Australia,Australia,-31.9505,115.8605,0,0,0,0
@@ -1807,6 +1837,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Western Australia,Australia,-31.9505,115.8605,553,536,9,8
 5/12/20,Western Australia,Australia,-31.9505,115.8605,553,537,9,7
 5/13/20,Western Australia,Australia,-31.9505,115.8605,552,538,9,5
+5/14/20,Western Australia,Australia,-31.9505,115.8605,552,538,9,5
+5/15/20,Western Australia,Australia,-31.9505,115.8605,552,538,9,5
 1/22/20,,Austria,47.5162,14.5501,0,0,0,0
 1/23/20,,Austria,47.5162,14.5501,0,0,0,0
 1/24/20,,Austria,47.5162,14.5501,0,0,0,0
@@ -1920,6 +1952,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Austria,47.5162,14.5501,15882,14061,620,1201
 5/12/20,,Austria,47.5162,14.5501,15961,14148,623,1190
 5/13/20,,Austria,47.5162,14.5501,15997,14304,624,1069
+5/14/20,,Austria,47.5162,14.5501,16058,14405,626,1027
+5/15/20,,Austria,47.5162,14.5501,16109,14471,628,1010
 1/22/20,,Azerbaijan,40.1431,47.5769,0,0,0,0
 1/23/20,,Azerbaijan,40.1431,47.5769,0,0,0,0
 1/24/20,,Azerbaijan,40.1431,47.5769,0,0,0,0
@@ -2033,6 +2067,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Azerbaijan,40.1431,47.5769,2589,1680,32,877
 5/12/20,,Azerbaijan,40.1431,47.5769,2693,1680,33,980
 5/13/20,,Azerbaijan,40.1431,47.5769,2758,1789,35,934
+5/14/20,,Azerbaijan,40.1431,47.5769,2879,1833,35,1011
+5/15/20,,Azerbaijan,40.1431,47.5769,2980,1886,36,1058
 1/22/20,,Bahamas,25.0343,-77.3963,0,0,0,0
 1/23/20,,Bahamas,25.0343,-77.3963,0,0,0,0
 1/24/20,,Bahamas,25.0343,-77.3963,0,0,0,0
@@ -2146,6 +2182,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bahamas,25.0343,-77.3963,93,39,11,43
 5/12/20,,Bahamas,25.0343,-77.3963,93,39,11,43
 5/13/20,,Bahamas,25.0343,-77.3963,94,41,11,42
+5/14/20,,Bahamas,25.0343,-77.3963,96,41,11,44
+5/15/20,,Bahamas,25.0343,-77.3963,96,41,11,44
 1/22/20,,Bahrain,26.0275,50.55,0,0,0,0
 1/23/20,,Bahrain,26.0275,50.55,0,0,0,0
 1/24/20,,Bahrain,26.0275,50.55,0,0,0,0
@@ -2259,6 +2297,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bahrain,26.0275,50.55,5236,2152,8,3076
 5/12/20,,Bahrain,26.0275,50.55,5531,2192,9,3330
 5/13/20,,Bahrain,26.0275,50.55,5816,2205,10,3601
+5/14/20,,Bahrain,26.0275,50.55,6198,2353,10,3835
+5/15/20,,Bahrain,26.0275,50.55,6583,2640,12,3931
 1/22/20,,Bangladesh,23.685,90.3563,0,0,0,0
 1/23/20,,Bangladesh,23.685,90.3563,0,0,0,0
 1/24/20,,Bangladesh,23.685,90.3563,0,0,0,0
@@ -2372,6 +2412,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bangladesh,23.685,90.3563,15691,2902,239,12550
 5/12/20,,Bangladesh,23.685,90.3563,16660,3147,250,13263
 5/13/20,,Bangladesh,23.685,90.3563,17822,3361,269,14192
+5/14/20,,Bangladesh,23.685,90.3563,18863,3361,283,15219
+5/15/20,,Bangladesh,23.685,90.3563,20065,3882,298,15885
 1/22/20,,Barbados,13.1939,-59.5432,0,0,0,0
 1/23/20,,Barbados,13.1939,-59.5432,0,0,0,0
 1/24/20,,Barbados,13.1939,-59.5432,0,0,0,0
@@ -2485,6 +2527,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Barbados,13.1939,-59.5432,84,57,7,20
 5/12/20,,Barbados,13.1939,-59.5432,85,57,7,21
 5/13/20,,Barbados,13.1939,-59.5432,85,65,7,13
+5/14/20,,Barbados,13.1939,-59.5432,85,65,7,13
+5/15/20,,Barbados,13.1939,-59.5432,85,65,7,13
 1/22/20,,Belarus,53.7098,27.9534,0,0,0,0
 1/23/20,,Belarus,53.7098,27.9534,0,0,0,0
 1/24/20,,Belarus,53.7098,27.9534,0,0,0,0
@@ -2598,6 +2642,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Belarus,53.7098,27.9534,23906,6531,135,17240
 5/12/20,,Belarus,53.7098,27.9534,24873,6974,142,17757
 5/13/20,,Belarus,53.7098,27.9534,25825,7711,146,17968
+5/14/20,,Belarus,53.7098,27.9534,26772,8168,151,18453
+5/15/20,,Belarus,53.7098,27.9534,27730,8807,156,18767
 1/22/20,,Belgium,50.8333,4.0,0,0,0,0
 1/23/20,,Belgium,50.8333,4.0,0,0,0,0
 1/24/20,,Belgium,50.8333,4.0,0,0,0,0
@@ -2711,6 +2757,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Belgium,50.8333,4.0,53449,13697,8707,31045
 5/12/20,,Belgium,50.8333,4.0,53779,13732,8761,31286
 5/13/20,,Belgium,50.8333,4.0,53981,13937,8843,31201
+5/14/20,,Belgium,50.8333,4.0,54288,14111,8903,31274
+5/15/20,,Belgium,50.8333,4.0,54644,14301,8959,31384
 1/22/20,,Benin,9.3077,2.3158,0,0,0,0
 1/23/20,,Benin,9.3077,2.3158,0,0,0,0
 1/24/20,,Benin,9.3077,2.3158,0,0,0,0
@@ -2824,6 +2872,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Benin,9.3077,2.3158,319,62,2,255
 5/12/20,,Benin,9.3077,2.3158,327,76,2,249
 5/13/20,,Benin,9.3077,2.3158,327,83,2,242
+5/14/20,,Benin,9.3077,2.3158,339,83,2,254
+5/15/20,,Benin,9.3077,2.3158,339,83,2,254
 1/22/20,,Bhutan,27.5142,90.4336,0,0,0,0
 1/23/20,,Bhutan,27.5142,90.4336,0,0,0,0
 1/24/20,,Bhutan,27.5142,90.4336,0,0,0,0
@@ -2937,6 +2987,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bhutan,27.5142,90.4336,9,5,0,4
 5/12/20,,Bhutan,27.5142,90.4336,11,5,0,6
 5/13/20,,Bhutan,27.5142,90.4336,15,5,0,10
+5/14/20,,Bhutan,27.5142,90.4336,20,5,0,15
+5/15/20,,Bhutan,27.5142,90.4336,21,5,0,16
 1/22/20,,Bolivia,-16.2902,-63.5887,0,0,0,0
 1/23/20,,Bolivia,-16.2902,-63.5887,0,0,0,0
 1/24/20,,Bolivia,-16.2902,-63.5887,0,0,0,0
@@ -3050,6 +3102,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bolivia,-16.2902,-63.5887,2831,299,122,2410
 5/12/20,,Bolivia,-16.2902,-63.5887,2964,313,128,2523
 5/13/20,,Bolivia,-16.2902,-63.5887,3148,339,142,2667
+5/14/20,,Bolivia,-16.2902,-63.5887,3372,356,152,2864
+5/15/20,,Bolivia,-16.2902,-63.5887,3577,434,164,2979
 1/22/20,,Bosnia and Herzegovina,43.9159,17.6791,0,0,0,0
 1/23/20,,Bosnia and Herzegovina,43.9159,17.6791,0,0,0,0
 1/24/20,,Bosnia and Herzegovina,43.9159,17.6791,0,0,0,0
@@ -3163,6 +3217,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bosnia and Herzegovina,43.9159,17.6791,2141,1114,113,914
 5/12/20,,Bosnia and Herzegovina,43.9159,17.6791,2158,1168,117,873
 5/13/20,,Bosnia and Herzegovina,43.9159,17.6791,2181,1228,120,833
+5/14/20,,Bosnia and Herzegovina,43.9159,17.6791,2218,1272,122,824
+5/15/20,,Bosnia and Herzegovina,43.9159,17.6791,2236,1336,128,772
 1/22/20,,Brazil,-14.235,-51.9253,0,0,0,0
 1/23/20,,Brazil,-14.235,-51.9253,0,0,0,0
 1/24/20,,Brazil,-14.235,-51.9253,0,0,0,0
@@ -3276,6 +3332,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Brazil,-14.235,-51.9253,169594,67384,11653,90557
 5/12/20,,Brazil,-14.235,-51.9253,178214,72597,12461,93156
 5/13/20,,Brazil,-14.235,-51.9253,190137,78424,13240,98473
+5/14/20,,Brazil,-14.235,-51.9253,203165,79479,13999,109687
+5/15/20,,Brazil,-14.235,-51.9253,220291,84970,14962,120359
 1/22/20,,Brunei,4.5353,114.7277,0,0,0,0
 1/23/20,,Brunei,4.5353,114.7277,0,0,0,0
 1/24/20,,Brunei,4.5353,114.7277,0,0,0,0
@@ -3389,6 +3447,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Brunei,4.5353,114.7277,141,134,1,6
 5/12/20,,Brunei,4.5353,114.7277,141,134,1,6
 5/13/20,,Brunei,4.5353,114.7277,141,134,1,6
+5/14/20,,Brunei,4.5353,114.7277,141,134,1,6
+5/15/20,,Brunei,4.5353,114.7277,141,135,1,5
 1/22/20,,Bulgaria,42.7339,25.4858,0,0,0,0
 1/23/20,,Bulgaria,42.7339,25.4858,0,0,0,0
 1/24/20,,Bulgaria,42.7339,25.4858,0,0,0,0
@@ -3502,6 +3562,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Bulgaria,42.7339,25.4858,1990,461,93,1436
 5/12/20,,Bulgaria,42.7339,25.4858,2023,476,95,1452
 5/13/20,,Bulgaria,42.7339,25.4858,2069,499,96,1474
+5/14/20,,Bulgaria,42.7339,25.4858,2100,531,99,1470
+5/15/20,,Bulgaria,42.7339,25.4858,2138,545,102,1491
 1/22/20,,Burkina Faso,12.2383,-1.5616,0,0,0,0
 1/23/20,,Burkina Faso,12.2383,-1.5616,0,0,0,0
 1/24/20,,Burkina Faso,12.2383,-1.5616,0,0,0,0
@@ -3615,6 +3677,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Burkina Faso,12.2383,-1.5616,760,584,50,126
 5/12/20,,Burkina Faso,12.2383,-1.5616,766,588,51,127
 5/13/20,,Burkina Faso,12.2383,-1.5616,773,592,51,130
+5/14/20,,Burkina Faso,12.2383,-1.5616,773,592,51,130
+5/15/20,,Burkina Faso,12.2383,-1.5616,780,595,51,134
 1/22/20,,Cabo Verde,16.5388,-23.0418,0,0,0,0
 1/23/20,,Cabo Verde,16.5388,-23.0418,0,0,0,0
 1/24/20,,Cabo Verde,16.5388,-23.0418,0,0,0,0
@@ -3728,6 +3792,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Cabo Verde,16.5388,-23.0418,260,58,2,200
 5/12/20,,Cabo Verde,16.5388,-23.0418,267,58,2,207
 5/13/20,,Cabo Verde,16.5388,-23.0418,289,61,2,226
+5/14/20,,Cabo Verde,16.5388,-23.0418,315,67,2,246
+5/15/20,,Cabo Verde,16.5388,-23.0418,326,67,2,257
 1/22/20,,Cambodia,11.55,104.9167,0,0,0,0
 1/23/20,,Cambodia,11.55,104.9167,0,0,0,0
 1/24/20,,Cambodia,11.55,104.9167,0,0,0,0
@@ -3841,6 +3907,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Cambodia,11.55,104.9167,122,121,0,1
 5/12/20,,Cambodia,11.55,104.9167,122,121,0,1
 5/13/20,,Cambodia,11.55,104.9167,122,121,0,1
+5/14/20,,Cambodia,11.55,104.9167,122,121,0,1
+5/15/20,,Cambodia,11.55,104.9167,122,122,0,0
 1/22/20,,Cameroon,3.848,11.5021,0,0,0,0
 1/23/20,,Cameroon,3.848,11.5021,0,0,0,0
 1/24/20,,Cameroon,3.848,11.5021,0,0,0,0
@@ -3954,6 +4022,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Cameroon,3.848,11.5021,2689,1524,125,1040
 5/12/20,,Cameroon,3.848,11.5021,2689,1524,125,1040
 5/13/20,,Cameroon,3.848,11.5021,2800,1543,136,1121
+5/14/20,,Cameroon,3.848,11.5021,2954,1553,139,1262
+5/15/20,,Cameroon,3.848,11.5021,3105,1567,140,1398
 1/22/20,Alberta,Canada,53.9333,-116.5765,0,0,0,0
 1/23/20,Alberta,Canada,53.9333,-116.5765,0,0,0,0
 1/24/20,Alberta,Canada,53.9333,-116.5765,0,0,0,0
@@ -4067,6 +4137,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Alberta,Canada,53.9333,-116.5765,6300,0,117,6183
 5/12/20,Alberta,Canada,53.9333,-116.5765,6345,0,118,6227
 5/13/20,Alberta,Canada,53.9333,-116.5765,6407,0,120,6287
+5/14/20,Alberta,Canada,53.9333,-116.5765,6457,0,121,6336
+5/15/20,Alberta,Canada,53.9333,-116.5765,6515,0,125,6390
 1/22/20,British Columbia,Canada,49.2827,-123.1207,0,0,0,0
 1/23/20,British Columbia,Canada,49.2827,-123.1207,0,0,0,0
 1/24/20,British Columbia,Canada,49.2827,-123.1207,0,0,0,0
@@ -4180,6 +4252,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,British Columbia,Canada,49.2827,-123.1207,2353,0,130,2223
 5/12/20,British Columbia,Canada,49.2827,-123.1207,2360,0,132,2228
 5/13/20,British Columbia,Canada,49.2827,-123.1207,2376,0,132,2244
+5/14/20,British Columbia,Canada,49.2827,-123.1207,2392,0,135,2257
+5/15/20,British Columbia,Canada,49.2827,-123.1207,2407,0,140,2267
 1/22/20,Grand Princess,Canada,37.6489,-122.6655,0,0,0,0
 1/23/20,Grand Princess,Canada,37.6489,-122.6655,0,0,0,0
 1/24/20,Grand Princess,Canada,37.6489,-122.6655,0,0,0,0
@@ -4293,6 +4367,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Grand Princess,Canada,37.6489,-122.6655,13,0,0,13
 5/12/20,Grand Princess,Canada,37.6489,-122.6655,13,0,0,13
 5/13/20,Grand Princess,Canada,37.6489,-122.6655,13,0,0,13
+5/14/20,Grand Princess,Canada,37.6489,-122.6655,13,0,0,13
+5/15/20,Grand Princess,Canada,37.6489,-122.6655,13,0,0,13
 1/22/20,Manitoba,Canada,53.7609,-98.8139,0,0,0,0
 1/23/20,Manitoba,Canada,53.7609,-98.8139,0,0,0,0
 1/24/20,Manitoba,Canada,53.7609,-98.8139,0,0,0,0
@@ -4406,6 +4482,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Manitoba,Canada,53.7609,-98.8139,289,0,7,282
 5/12/20,Manitoba,Canada,53.7609,-98.8139,290,0,7,283
 5/13/20,Manitoba,Canada,53.7609,-98.8139,290,0,7,283
+5/14/20,Manitoba,Canada,53.7609,-98.8139,289,0,7,282
+5/15/20,Manitoba,Canada,53.7609,-98.8139,289,0,7,282
 1/22/20,New Brunswick,Canada,46.5653,-66.4619,0,0,0,0
 1/23/20,New Brunswick,Canada,46.5653,-66.4619,0,0,0,0
 1/24/20,New Brunswick,Canada,46.5653,-66.4619,0,0,0,0
@@ -4519,6 +4597,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,New Brunswick,Canada,46.5653,-66.4619,120,0,0,120
 5/12/20,New Brunswick,Canada,46.5653,-66.4619,120,0,0,120
 5/13/20,New Brunswick,Canada,46.5653,-66.4619,120,0,0,120
+5/14/20,New Brunswick,Canada,46.5653,-66.4619,120,0,0,120
+5/15/20,New Brunswick,Canada,46.5653,-66.4619,120,0,0,120
 1/22/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,0,0,0,0
 1/23/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,0,0,0,0
 1/24/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,0,0,0,0
@@ -4632,6 +4712,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,261,0,3,258
 5/12/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,261,0,3,258
 5/13/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,261,0,3,258
+5/14/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,261,0,3,258
+5/15/20,Newfoundland and Labrador,Canada,53.1355,-57.6604,260,0,3,257
 1/22/20,Nova Scotia,Canada,44.682,-63.7443,0,0,0,0
 1/23/20,Nova Scotia,Canada,44.682,-63.7443,0,0,0,0
 1/24/20,Nova Scotia,Canada,44.682,-63.7443,0,0,0,0
@@ -4745,6 +4827,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Nova Scotia,Canada,44.682,-63.7443,1019,0,48,971
 5/12/20,Nova Scotia,Canada,44.682,-63.7443,1020,0,48,972
 5/13/20,Nova Scotia,Canada,44.682,-63.7443,1024,0,51,973
+5/14/20,Nova Scotia,Canada,44.682,-63.7443,1026,0,51,975
+5/15/20,Nova Scotia,Canada,44.682,-63.7443,1034,0,55,979
 1/22/20,Ontario,Canada,51.2538,-85.3232,0,0,0,0
 1/23/20,Ontario,Canada,51.2538,-85.3232,0,0,0,0
 1/24/20,Ontario,Canada,51.2538,-85.3232,0,0,0,0
@@ -4858,6 +4942,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Ontario,Canada,51.2538,-85.3232,21817,0,1788,20029
 5/12/20,Ontario,Canada,51.2538,-85.3232,22158,0,1852,20306
 5/13/20,Ontario,Canada,51.2538,-85.3232,22516,0,1883,20633
+5/14/20,Ontario,Canada,51.2538,-85.3232,22865,0,1915,20950
+5/15/20,Ontario,Canada,51.2538,-85.3232,23258,0,1939,21319
 1/22/20,Prince Edward Island,Canada,46.5107,-63.4168,0,0,0,0
 1/23/20,Prince Edward Island,Canada,46.5107,-63.4168,0,0,0,0
 1/24/20,Prince Edward Island,Canada,46.5107,-63.4168,0,0,0,0
@@ -4971,6 +5057,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Prince Edward Island,Canada,46.5107,-63.4168,27,0,0,27
 5/12/20,Prince Edward Island,Canada,46.5107,-63.4168,27,0,0,27
 5/13/20,Prince Edward Island,Canada,46.5107,-63.4168,27,0,0,27
+5/14/20,Prince Edward Island,Canada,46.5107,-63.4168,27,0,0,27
+5/15/20,Prince Edward Island,Canada,46.5107,-63.4168,27,0,0,27
 1/22/20,Quebec,Canada,52.9399,-73.5491,0,0,0,0
 1/23/20,Quebec,Canada,52.9399,-73.5491,0,0,0,0
 1/24/20,Quebec,Canada,52.9399,-73.5491,0,0,0,0
@@ -5084,6 +5172,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Quebec,Canada,52.9399,-73.5491,38480,0,3014,35466
 5/12/20,Quebec,Canada,52.9399,-73.5491,39235,0,3132,36103
 5/13/20,Quebec,Canada,52.9399,-73.5491,39940,0,3221,36719
+5/14/20,Quebec,Canada,52.9399,-73.5491,40732,0,3352,37380
+5/15/20,Quebec,Canada,52.9399,-73.5491,41429,0,3402,38027
 1/22/20,Saskatchewan,Canada,52.9399,-106.4509,0,0,0,0
 1/23/20,Saskatchewan,Canada,52.9399,-106.4509,0,0,0,0
 1/24/20,Saskatchewan,Canada,52.9399,-106.4509,0,0,0,0
@@ -5197,6 +5287,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Saskatchewan,Canada,52.9399,-106.4509,568,0,7,561
 5/12/20,Saskatchewan,Canada,52.9399,-106.4509,573,0,7,566
 5/13/20,Saskatchewan,Canada,52.9399,-106.4509,577,0,7,570
+5/14/20,Saskatchewan,Canada,52.9399,-106.4509,582,0,7,575
+5/15/20,Saskatchewan,Canada,52.9399,-106.4509,590,0,7,583
 1/22/20,,Central African Republic,6.6111,20.9394,0,0,0,0
 1/23/20,,Central African Republic,6.6111,20.9394,0,0,0,0
 1/24/20,,Central African Republic,6.6111,20.9394,0,0,0,0
@@ -5310,6 +5402,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Central African Republic,6.6111,20.9394,143,10,0,133
 5/12/20,,Central African Republic,6.6111,20.9394,143,10,0,133
 5/13/20,,Central African Republic,6.6111,20.9394,143,10,0,133
+5/14/20,,Central African Republic,6.6111,20.9394,143,10,0,133
+5/15/20,,Central African Republic,6.6111,20.9394,301,13,0,288
 1/22/20,,Chad,15.4542,18.7322,0,0,0,0
 1/23/20,,Chad,15.4542,18.7322,0,0,0,0
 1/24/20,,Chad,15.4542,18.7322,0,0,0,0
@@ -5423,6 +5517,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Chad,15.4542,18.7322,322,53,31,238
 5/12/20,,Chad,15.4542,18.7322,357,76,40,241
 5/13/20,,Chad,15.4542,18.7322,372,78,42,252
+5/14/20,,Chad,15.4542,18.7322,399,83,46,270
+5/15/20,,Chad,15.4542,18.7322,428,88,48,292
 1/22/20,,Chile,-35.6751,-71.543,0,0,0,0
 1/23/20,,Chile,-35.6751,-71.543,0,0,0,0
 1/24/20,,Chile,-35.6751,-71.543,0,0,0,0
@@ -5536,6 +5632,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Chile,-35.6751,-71.543,30063,13605,323,16135
 5/12/20,,Chile,-35.6751,-71.543,31721,14125,335,17261
 5/13/20,,Chile,-35.6751,-71.543,34381,14865,346,19170
+5/14/20,,Chile,-35.6751,-71.543,37040,15655,368,21017
+5/15/20,,Chile,-35.6751,-71.543,39542,16614,394,22534
 1/22/20,Anhui,China,31.8257,117.2264,1,0,0,1
 1/23/20,Anhui,China,31.8257,117.2264,9,0,0,9
 1/24/20,Anhui,China,31.8257,117.2264,15,0,0,15
@@ -5649,6 +5747,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Anhui,China,31.8257,117.2264,991,985,6,0
 5/12/20,Anhui,China,31.8257,117.2264,991,985,6,0
 5/13/20,Anhui,China,31.8257,117.2264,991,985,6,0
+5/14/20,Anhui,China,31.8257,117.2264,991,985,6,0
+5/15/20,Anhui,China,31.8257,117.2264,991,985,6,0
 1/22/20,Beijing,China,40.1824,116.4142,14,0,0,14
 1/23/20,Beijing,China,40.1824,116.4142,22,0,0,22
 1/24/20,Beijing,China,40.1824,116.4142,36,1,0,35
@@ -5762,6 +5862,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Beijing,China,40.1824,116.4142,593,571,9,13
 5/12/20,Beijing,China,40.1824,116.4142,593,573,9,11
 5/13/20,Beijing,China,40.1824,116.4142,593,574,9,10
+5/14/20,Beijing,China,40.1824,116.4142,593,574,9,10
+5/15/20,Beijing,China,40.1824,116.4142,593,576,9,8
 1/22/20,Chongqing,China,30.0572,107.874,6,0,0,6
 1/23/20,Chongqing,China,30.0572,107.874,9,0,0,9
 1/24/20,Chongqing,China,30.0572,107.874,27,0,0,27
@@ -5875,6 +5977,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Chongqing,China,30.0572,107.874,579,573,6,0
 5/12/20,Chongqing,China,30.0572,107.874,579,573,6,0
 5/13/20,Chongqing,China,30.0572,107.874,579,573,6,0
+5/14/20,Chongqing,China,30.0572,107.874,579,573,6,0
+5/15/20,Chongqing,China,30.0572,107.874,579,573,6,0
 1/22/20,Fujian,China,26.0789,117.9874,1,0,0,1
 1/23/20,Fujian,China,26.0789,117.9874,5,0,0,5
 1/24/20,Fujian,China,26.0789,117.9874,10,0,0,10
@@ -5988,6 +6092,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Fujian,China,26.0789,117.9874,356,354,1,1
 5/12/20,Fujian,China,26.0789,117.9874,356,354,1,1
 5/13/20,Fujian,China,26.0789,117.9874,356,354,1,1
+5/14/20,Fujian,China,26.0789,117.9874,356,355,1,0
+5/15/20,Fujian,China,26.0789,117.9874,356,355,1,0
 1/22/20,Gansu,China,37.8099,101.0583,0,0,0,0
 1/23/20,Gansu,China,37.8099,101.0583,2,0,0,2
 1/24/20,Gansu,China,37.8099,101.0583,2,0,0,2
@@ -6101,6 +6207,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Gansu,China,37.8099,101.0583,139,137,2,0
 5/12/20,Gansu,China,37.8099,101.0583,139,137,2,0
 5/13/20,Gansu,China,37.8099,101.0583,139,137,2,0
+5/14/20,Gansu,China,37.8099,101.0583,139,137,2,0
+5/15/20,Gansu,China,37.8099,101.0583,139,137,2,0
 1/22/20,Guangdong,China,23.3417,113.4244,26,0,0,26
 1/23/20,Guangdong,China,23.3417,113.4244,32,2,0,30
 1/24/20,Guangdong,China,23.3417,113.4244,53,2,0,51
@@ -6214,6 +6322,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Guangdong,China,23.3417,113.4244,1589,1578,8,3
 5/12/20,Guangdong,China,23.3417,113.4244,1589,1578,8,3
 5/13/20,Guangdong,China,23.3417,113.4244,1589,1579,8,2
+5/14/20,Guangdong,China,23.3417,113.4244,1589,1579,8,2
+5/15/20,Guangdong,China,23.3417,113.4244,1589,1579,8,2
 1/22/20,Guangxi,China,23.8298,108.7881,2,0,0,2
 1/23/20,Guangxi,China,23.8298,108.7881,5,0,0,5
 1/24/20,Guangxi,China,23.8298,108.7881,23,0,0,23
@@ -6327,6 +6437,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Guangxi,China,23.8298,108.7881,254,252,2,0
 5/12/20,Guangxi,China,23.8298,108.7881,254,252,2,0
 5/13/20,Guangxi,China,23.8298,108.7881,254,252,2,0
+5/14/20,Guangxi,China,23.8298,108.7881,254,252,2,0
+5/15/20,Guangxi,China,23.8298,108.7881,254,252,2,0
 1/22/20,Guizhou,China,26.8154,106.8748,1,0,0,1
 1/23/20,Guizhou,China,26.8154,106.8748,3,0,0,3
 1/24/20,Guizhou,China,26.8154,106.8748,3,0,0,3
@@ -6440,6 +6552,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Guizhou,China,26.8154,106.8748,147,145,2,0
 5/12/20,Guizhou,China,26.8154,106.8748,147,145,2,0
 5/13/20,Guizhou,China,26.8154,106.8748,147,145,2,0
+5/14/20,Guizhou,China,26.8154,106.8748,147,145,2,0
+5/15/20,Guizhou,China,26.8154,106.8748,147,145,2,0
 1/22/20,Hainan,China,19.1959,109.7453,4,0,0,4
 1/23/20,Hainan,China,19.1959,109.7453,5,0,0,5
 1/24/20,Hainan,China,19.1959,109.7453,8,0,0,8
@@ -6553,6 +6667,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Hainan,China,19.1959,109.7453,168,162,6,0
 5/12/20,Hainan,China,19.1959,109.7453,168,162,6,0
 5/13/20,Hainan,China,19.1959,109.7453,168,162,6,0
+5/14/20,Hainan,China,19.1959,109.7453,168,162,6,0
+5/15/20,Hainan,China,19.1959,109.7453,169,162,6,1
 1/22/20,Hebei,China,39.549,116.1306,1,0,0,1
 1/23/20,Hebei,China,39.549,116.1306,1,0,1,0
 1/24/20,Hebei,China,39.549,116.1306,2,0,1,1
@@ -6666,6 +6782,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Hebei,China,39.549,116.1306,328,321,6,1
 5/12/20,Hebei,China,39.549,116.1306,328,321,6,1
 5/13/20,Hebei,China,39.549,116.1306,328,321,6,1
+5/14/20,Hebei,China,39.549,116.1306,328,321,6,1
+5/15/20,Hebei,China,39.549,116.1306,328,321,6,1
 1/22/20,Heilongjiang,China,47.862,127.7615,0,0,0,0
 1/23/20,Heilongjiang,China,47.862,127.7615,2,0,0,2
 1/24/20,Heilongjiang,China,47.862,127.7615,4,0,1,3
@@ -6779,6 +6897,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Heilongjiang,China,47.862,127.7615,945,924,13,8
 5/12/20,Heilongjiang,China,47.862,127.7615,945,929,13,3
 5/13/20,Heilongjiang,China,47.862,127.7615,945,930,13,2
+5/14/20,Heilongjiang,China,47.862,127.7615,945,930,13,2
+5/15/20,Heilongjiang,China,47.862,127.7615,945,931,13,1
 1/22/20,Henan,China,33.882,113.614,5,0,0,5
 1/23/20,Henan,China,33.882,113.614,5,0,0,5
 1/24/20,Henan,China,33.882,113.614,9,0,0,9
@@ -6892,6 +7012,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Henan,China,33.882,113.614,1276,1254,22,0
 5/12/20,Henan,China,33.882,113.614,1276,1254,22,0
 5/13/20,Henan,China,33.882,113.614,1276,1254,22,0
+5/14/20,Henan,China,33.882,113.614,1276,1254,22,0
+5/15/20,Henan,China,33.882,113.614,1276,1254,22,0
 1/22/20,Hong Kong,China,22.3,114.2,0,0,0,0
 1/23/20,Hong Kong,China,22.3,114.2,2,0,0,2
 1/24/20,Hong Kong,China,22.3,114.2,2,0,0,2
@@ -7005,6 +7127,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Hong Kong,China,22.3,114.2,1047,985,4,58
 5/12/20,Hong Kong,China,22.3,114.2,1047,991,4,52
 5/13/20,Hong Kong,China,22.3,114.2,1050,1008,4,38
+5/14/20,Hong Kong,China,22.3,114.2,1051,1009,4,38
+5/15/20,Hong Kong,China,22.3,114.2,1052,1019,4,29
 1/22/20,Hubei,China,30.9756,112.2707,444,28,17,399
 1/23/20,Hubei,China,30.9756,112.2707,444,28,17,399
 1/24/20,Hubei,China,30.9756,112.2707,549,31,24,494
@@ -7118,6 +7242,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Hubei,China,30.9756,112.2707,68134,63616,4512,6
 5/12/20,Hubei,China,30.9756,112.2707,68134,63616,4512,6
 5/13/20,Hubei,China,30.9756,112.2707,68134,63616,4512,6
+5/14/20,Hubei,China,30.9756,112.2707,68134,63616,4512,6
+5/15/20,Hubei,China,30.9756,112.2707,68134,63616,4512,6
 1/22/20,Hunan,China,27.6104,111.7088,4,0,0,4
 1/23/20,Hunan,China,27.6104,111.7088,9,0,0,9
 1/24/20,Hunan,China,27.6104,111.7088,24,0,0,24
@@ -7231,6 +7357,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Hunan,China,27.6104,111.7088,1019,1015,4,0
 5/12/20,Hunan,China,27.6104,111.7088,1019,1015,4,0
 5/13/20,Hunan,China,27.6104,111.7088,1019,1015,4,0
+5/14/20,Hunan,China,27.6104,111.7088,1019,1015,4,0
+5/15/20,Hunan,China,27.6104,111.7088,1019,1015,4,0
 1/22/20,Inner Mongolia,China,44.0935,113.9448,0,0,0,0
 1/23/20,Inner Mongolia,China,44.0935,113.9448,0,0,0,0
 1/24/20,Inner Mongolia,China,44.0935,113.9448,1,0,0,1
@@ -7344,6 +7472,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Inner Mongolia,China,44.0935,113.9448,209,188,1,20
 5/12/20,Inner Mongolia,China,44.0935,113.9448,209,190,1,18
 5/13/20,Inner Mongolia,China,44.0935,113.9448,209,190,1,18
+5/14/20,Inner Mongolia,China,44.0935,113.9448,209,194,1,14
+5/15/20,Inner Mongolia,China,44.0935,113.9448,209,196,1,12
 1/22/20,Jiangsu,China,32.9711,119.455,1,0,0,1
 1/23/20,Jiangsu,China,32.9711,119.455,5,0,0,5
 1/24/20,Jiangsu,China,32.9711,119.455,9,0,0,9
@@ -7457,6 +7587,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Jiangsu,China,32.9711,119.455,653,653,0,0
 5/12/20,Jiangsu,China,32.9711,119.455,653,653,0,0
 5/13/20,Jiangsu,China,32.9711,119.455,653,653,0,0
+5/14/20,Jiangsu,China,32.9711,119.455,653,653,0,0
+5/15/20,Jiangsu,China,32.9711,119.455,653,653,0,0
 1/22/20,Jiangxi,China,27.614,115.7221,2,0,0,2
 1/23/20,Jiangxi,China,27.614,115.7221,7,0,0,7
 1/24/20,Jiangxi,China,27.614,115.7221,18,0,0,18
@@ -7570,6 +7702,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Jiangxi,China,27.614,115.7221,937,936,1,0
 5/12/20,Jiangxi,China,27.614,115.7221,937,936,1,0
 5/13/20,Jiangxi,China,27.614,115.7221,937,936,1,0
+5/14/20,Jiangxi,China,27.614,115.7221,937,936,1,0
+5/15/20,Jiangxi,China,27.614,115.7221,937,936,1,0
 1/22/20,Jilin,China,43.6661,126.1923,0,0,0,0
 1/23/20,Jilin,China,43.6661,126.1923,1,0,0,1
 1/24/20,Jilin,China,43.6661,126.1923,3,0,0,3
@@ -7683,6 +7817,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Jilin,China,43.6661,126.1923,127,105,1,21
 5/12/20,Jilin,China,43.6661,126.1923,133,108,1,24
 5/13/20,Jilin,China,43.6661,126.1923,134,108,1,25
+5/14/20,Jilin,China,43.6661,126.1923,138,108,1,29
+5/15/20,Jilin,China,43.6661,126.1923,140,108,1,31
 1/22/20,Liaoning,China,41.2956,122.6085,2,0,0,2
 1/23/20,Liaoning,China,41.2956,122.6085,3,0,0,3
 1/24/20,Liaoning,China,41.2956,122.6085,4,0,0,4
@@ -7796,6 +7932,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Liaoning,China,41.2956,122.6085,147,144,2,1
 5/12/20,Liaoning,China,41.2956,122.6085,147,144,2,1
 5/13/20,Liaoning,China,41.2956,122.6085,149,144,2,3
+5/14/20,Liaoning,China,41.2956,122.6085,149,144,2,3
+5/15/20,Liaoning,China,41.2956,122.6085,149,144,2,3
 1/22/20,Macau,China,22.1667,113.55,1,0,0,1
 1/23/20,Macau,China,22.1667,113.55,2,0,0,2
 1/24/20,Macau,China,22.1667,113.55,2,0,0,2
@@ -7909,6 +8047,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Macau,China,22.1667,113.55,45,42,0,3
 5/12/20,Macau,China,22.1667,113.55,45,42,0,3
 5/13/20,Macau,China,22.1667,113.55,45,43,0,2
+5/14/20,Macau,China,22.1667,113.55,45,43,0,2
+5/15/20,Macau,China,22.1667,113.55,45,43,0,2
 1/22/20,Ningxia,China,37.2692,106.1655,1,0,0,1
 1/23/20,Ningxia,China,37.2692,106.1655,1,0,0,1
 1/24/20,Ningxia,China,37.2692,106.1655,2,0,0,2
@@ -8022,6 +8162,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Ningxia,China,37.2692,106.1655,75,75,0,0
 5/12/20,Ningxia,China,37.2692,106.1655,75,75,0,0
 5/13/20,Ningxia,China,37.2692,106.1655,75,75,0,0
+5/14/20,Ningxia,China,37.2692,106.1655,75,75,0,0
+5/15/20,Ningxia,China,37.2692,106.1655,75,75,0,0
 1/22/20,Qinghai,China,35.7452,95.9956,0,0,0,0
 1/23/20,Qinghai,China,35.7452,95.9956,0,0,0,0
 1/24/20,Qinghai,China,35.7452,95.9956,0,0,0,0
@@ -8135,6 +8277,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Qinghai,China,35.7452,95.9956,18,18,0,0
 5/12/20,Qinghai,China,35.7452,95.9956,18,18,0,0
 5/13/20,Qinghai,China,35.7452,95.9956,18,18,0,0
+5/14/20,Qinghai,China,35.7452,95.9956,18,18,0,0
+5/15/20,Qinghai,China,35.7452,95.9956,18,18,0,0
 1/22/20,Shaanxi,China,35.1917,108.8701,0,0,0,0
 1/23/20,Shaanxi,China,35.1917,108.8701,3,0,0,3
 1/24/20,Shaanxi,China,35.1917,108.8701,5,0,0,5
@@ -8248,6 +8392,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Shaanxi,China,35.1917,108.8701,308,296,3,9
 5/12/20,Shaanxi,China,35.1917,108.8701,308,297,3,8
 5/13/20,Shaanxi,China,35.1917,108.8701,308,297,3,8
+5/14/20,Shaanxi,China,35.1917,108.8701,308,300,3,5
+5/15/20,Shaanxi,China,35.1917,108.8701,308,301,3,4
 1/22/20,Shandong,China,36.3427,118.1498,2,0,0,2
 1/23/20,Shandong,China,36.3427,118.1498,6,0,0,6
 1/24/20,Shandong,China,36.3427,118.1498,15,0,0,15
@@ -8361,6 +8507,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Shandong,China,36.3427,118.1498,788,777,7,4
 5/12/20,Shandong,China,36.3427,118.1498,788,777,7,4
 5/13/20,Shandong,China,36.3427,118.1498,788,777,7,4
+5/14/20,Shandong,China,36.3427,118.1498,788,778,7,3
+5/15/20,Shandong,China,36.3427,118.1498,788,780,7,1
 1/22/20,Shanghai,China,31.202,121.4491,9,0,0,9
 1/23/20,Shanghai,China,31.202,121.4491,16,0,0,16
 1/24/20,Shanghai,China,31.202,121.4491,20,1,0,19
@@ -8474,6 +8622,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Shanghai,China,31.202,121.4491,659,627,7,25
 5/12/20,Shanghai,China,31.202,121.4491,660,631,7,22
 5/13/20,Shanghai,China,31.202,121.4491,660,633,7,20
+5/14/20,Shanghai,China,31.202,121.4491,660,638,7,15
+5/15/20,Shanghai,China,31.202,121.4491,665,640,7,18
 1/22/20,Shanxi,China,37.5777,112.2922,1,0,0,1
 1/23/20,Shanxi,China,37.5777,112.2922,1,0,0,1
 1/24/20,Shanxi,China,37.5777,112.2922,1,0,0,1
@@ -8587,6 +8737,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Shanxi,China,37.5777,112.2922,198,197,0,1
 5/12/20,Shanxi,China,37.5777,112.2922,198,198,0,0
 5/13/20,Shanxi,China,37.5777,112.2922,198,198,0,0
+5/14/20,Shanxi,China,37.5777,112.2922,198,198,0,0
+5/15/20,Shanxi,China,37.5777,112.2922,198,198,0,0
 1/22/20,Sichuan,China,30.6171,102.7103,5,0,0,5
 1/23/20,Sichuan,China,30.6171,102.7103,8,0,0,8
 1/24/20,Sichuan,China,30.6171,102.7103,15,0,0,15
@@ -8700,6 +8852,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Sichuan,China,30.6171,102.7103,561,558,3,0
 5/12/20,Sichuan,China,30.6171,102.7103,561,558,3,0
 5/13/20,Sichuan,China,30.6171,102.7103,561,558,3,0
+5/14/20,Sichuan,China,30.6171,102.7103,561,558,3,0
+5/15/20,Sichuan,China,30.6171,102.7103,561,558,3,0
 1/22/20,Tianjin,China,39.3054,117.323,4,0,0,4
 1/23/20,Tianjin,China,39.3054,117.323,4,0,0,4
 1/24/20,Tianjin,China,39.3054,117.323,8,0,0,8
@@ -8813,6 +8967,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Tianjin,China,39.3054,117.323,191,186,3,2
 5/12/20,Tianjin,China,39.3054,117.323,191,186,3,2
 5/13/20,Tianjin,China,39.3054,117.323,191,187,3,1
+5/14/20,Tianjin,China,39.3054,117.323,191,187,3,1
+5/15/20,Tianjin,China,39.3054,117.323,191,187,3,1
 1/22/20,Tibet,China,31.6927,88.0924,0,0,0,0
 1/23/20,Tibet,China,31.6927,88.0924,0,0,0,0
 1/24/20,Tibet,China,31.6927,88.0924,0,0,0,0
@@ -8926,6 +9082,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Tibet,China,31.6927,88.0924,1,1,0,0
 5/12/20,Tibet,China,31.6927,88.0924,1,1,0,0
 5/13/20,Tibet,China,31.6927,88.0924,1,1,0,0
+5/14/20,Tibet,China,31.6927,88.0924,1,1,0,0
+5/15/20,Tibet,China,31.6927,88.0924,1,1,0,0
 1/22/20,Xinjiang,China,41.1129,85.2401,0,0,0,0
 1/23/20,Xinjiang,China,41.1129,85.2401,2,0,0,2
 1/24/20,Xinjiang,China,41.1129,85.2401,2,0,0,2
@@ -9039,6 +9197,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Xinjiang,China,41.1129,85.2401,76,73,3,0
 5/12/20,Xinjiang,China,41.1129,85.2401,76,73,3,0
 5/13/20,Xinjiang,China,41.1129,85.2401,76,73,3,0
+5/14/20,Xinjiang,China,41.1129,85.2401,76,73,3,0
+5/15/20,Xinjiang,China,41.1129,85.2401,76,73,3,0
 1/22/20,Yunnan,China,24.974,101.487,1,0,0,1
 1/23/20,Yunnan,China,24.974,101.487,2,0,0,2
 1/24/20,Yunnan,China,24.974,101.487,5,0,0,5
@@ -9152,6 +9312,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Yunnan,China,24.974,101.487,185,183,2,0
 5/12/20,Yunnan,China,24.974,101.487,185,183,2,0
 5/13/20,Yunnan,China,24.974,101.487,185,183,2,0
+5/14/20,Yunnan,China,24.974,101.487,185,183,2,0
+5/15/20,Yunnan,China,24.974,101.487,185,183,2,0
 1/22/20,Zhejiang,China,29.1832,120.0934,10,0,0,10
 1/23/20,Zhejiang,China,29.1832,120.0934,27,0,0,27
 1/24/20,Zhejiang,China,29.1832,120.0934,43,1,0,42
@@ -9265,6 +9427,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Zhejiang,China,29.1832,120.0934,1268,1267,1,0
 5/12/20,Zhejiang,China,29.1832,120.0934,1268,1267,1,0
 5/13/20,Zhejiang,China,29.1832,120.0934,1268,1267,1,0
+5/14/20,Zhejiang,China,29.1832,120.0934,1268,1267,1,0
+5/15/20,Zhejiang,China,29.1832,120.0934,1268,1267,1,0
 1/22/20,,Colombia,4.5709,-74.2973,0,0,0,0
 1/23/20,,Colombia,4.5709,-74.2973,0,0,0,0
 1/24/20,,Colombia,4.5709,-74.2973,0,0,0,0
@@ -9378,6 +9542,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Colombia,4.5709,-74.2973,11613,2825,479,8309
 5/12/20,,Colombia,4.5709,-74.2973,12272,2971,493,8808
 5/13/20,,Colombia,4.5709,-74.2973,12930,3133,509,9288
+5/14/20,,Colombia,4.5709,-74.2973,13610,3358,525,9727
+5/15/20,,Colombia,4.5709,-74.2973,14216,3460,546,10210
 1/22/20,,Congo (Brazzaville),-4.0383,21.7587,0,0,0,0
 1/23/20,,Congo (Brazzaville),-4.0383,21.7587,0,0,0,0
 1/24/20,,Congo (Brazzaville),-4.0383,21.7587,0,0,0,0
@@ -9491,6 +9657,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Congo (Brazzaville),-4.0383,21.7587,333,53,11,269
 5/12/20,,Congo (Brazzaville),-4.0383,21.7587,333,53,11,269
 5/13/20,,Congo (Brazzaville),-4.0383,21.7587,333,53,11,269
+5/14/20,,Congo (Brazzaville),-4.0383,21.7587,391,87,15,289
+5/15/20,,Congo (Brazzaville),-4.0383,21.7587,391,87,15,289
 1/22/20,,Congo (Kinshasa),-4.0383,21.7587,0,0,0,0
 1/23/20,,Congo (Kinshasa),-4.0383,21.7587,0,0,0,0
 1/24/20,,Congo (Kinshasa),-4.0383,21.7587,0,0,0,0
@@ -9604,6 +9772,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Congo (Kinshasa),-4.0383,21.7587,1024,141,41,842
 5/12/20,,Congo (Kinshasa),-4.0383,21.7587,1102,146,44,912
 5/13/20,,Congo (Kinshasa),-4.0383,21.7587,1169,148,50,971
+5/14/20,,Congo (Kinshasa),-4.0383,21.7587,1242,157,50,1035
+5/15/20,,Congo (Kinshasa),-4.0383,21.7587,1298,212,50,1036
 1/22/20,,Costa Rica,9.7489,-83.7534,0,0,0,0
 1/23/20,,Costa Rica,9.7489,-83.7534,0,0,0,0
 1/24/20,,Costa Rica,9.7489,-83.7534,0,0,0,0
@@ -9717,6 +9887,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Costa Rica,9.7489,-83.7534,801,517,7,277
 5/12/20,,Costa Rica,9.7489,-83.7534,804,520,7,277
 5/13/20,,Costa Rica,9.7489,-83.7534,815,527,8,280
+5/14/20,,Costa Rica,9.7489,-83.7534,830,535,8,287
+5/15/20,,Costa Rica,9.7489,-83.7534,843,542,9,292
 1/22/20,,Cote d'Ivoire,7.54,-5.5471,0,0,0,0
 1/23/20,,Cote d'Ivoire,7.54,-5.5471,0,0,0,0
 1/24/20,,Cote d'Ivoire,7.54,-5.5471,0,0,0,0
@@ -9830,6 +10002,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Cote d'Ivoire,7.54,-5.5471,1730,818,21,891
 5/12/20,,Cote d'Ivoire,7.54,-5.5471,1857,820,21,1016
 5/13/20,,Cote d'Ivoire,7.54,-5.5471,1912,902,24,986
+5/14/20,,Cote d'Ivoire,7.54,-5.5471,1971,930,24,1017
+5/15/20,,Cote d'Ivoire,7.54,-5.5471,2017,942,24,1051
 1/22/20,,Croatia,45.1,15.2,0,0,0,0
 1/23/20,,Croatia,45.1,15.2,0,0,0,0
 1/24/20,,Croatia,45.1,15.2,0,0,0,0
@@ -9943,6 +10117,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Croatia,45.1,15.2,2196,1784,91,321
 5/12/20,,Croatia,45.1,15.2,2207,1808,91,308
 5/13/20,,Croatia,45.1,15.2,2213,1834,94,285
+5/14/20,,Croatia,45.1,15.2,2221,1850,94,277
+5/15/20,,Croatia,45.1,15.2,2222,1869,95,258
 1/22/20,,Diamond Princess,0.0,0.0,0,0,0,0
 1/23/20,,Diamond Princess,0.0,0.0,0,0,0,0
 1/24/20,,Diamond Princess,0.0,0.0,0,0,0,0
@@ -10056,6 +10232,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Diamond Princess,0.0,0.0,712,651,13,48
 5/12/20,,Diamond Princess,0.0,0.0,712,651,13,48
 5/13/20,,Diamond Princess,0.0,0.0,712,651,13,48
+5/14/20,,Diamond Princess,0.0,0.0,712,651,13,48
+5/15/20,,Diamond Princess,0.0,0.0,712,651,13,48
 1/22/20,,Cuba,22.0,-80.0,0,0,0,0
 1/23/20,,Cuba,22.0,-80.0,0,0,0,0
 1/24/20,,Cuba,22.0,-80.0,0,0,0,0
@@ -10169,6 +10347,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Cuba,22.0,-80.0,1783,1229,77,477
 5/12/20,,Cuba,22.0,-80.0,1804,1277,78,449
 5/13/20,,Cuba,22.0,-80.0,1810,1326,79,405
+5/14/20,,Cuba,22.0,-80.0,1830,1383,79,368
+5/15/20,,Cuba,22.0,-80.0,1840,1425,79,336
 1/22/20,,Cyprus,35.1264,33.4299,0,0,0,0
 1/23/20,,Cyprus,35.1264,33.4299,0,0,0,0
 1/24/20,,Cyprus,35.1264,33.4299,0,0,0,0
@@ -10282,6 +10462,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Cyprus,35.1264,33.4299,901,401,16,484
 5/12/20,,Cyprus,35.1264,33.4299,903,449,16,438
 5/13/20,,Cyprus,35.1264,33.4299,905,449,17,439
+5/14/20,,Cyprus,35.1264,33.4299,907,481,17,409
+5/15/20,,Cyprus,35.1264,33.4299,910,481,17,412
 1/22/20,,Czechia,49.8175,15.473,0,0,0,0
 1/23/20,,Czechia,49.8175,15.473,0,0,0,0
 1/24/20,,Czechia,49.8175,15.473,0,0,0,0
@@ -10395,6 +10577,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Czechia,49.8175,15.473,8176,4711,282,3183
 5/12/20,,Czechia,49.8175,15.473,8221,4889,283,3049
 5/13/20,,Czechia,49.8175,15.473,8269,5047,290,2932
+5/14/20,,Czechia,49.8175,15.473,8351,5241,293,2817
+5/15/20,,Czechia,49.8175,15.473,8406,5381,295,2730
 1/22/20,Faroe Islands,Denmark,61.8926,-6.9118,0,0,0,0
 1/23/20,Faroe Islands,Denmark,61.8926,-6.9118,0,0,0,0
 1/24/20,Faroe Islands,Denmark,61.8926,-6.9118,0,0,0,0
@@ -10508,6 +10692,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Faroe Islands,Denmark,61.8926,-6.9118,187,187,0,0
 5/12/20,Faroe Islands,Denmark,61.8926,-6.9118,187,187,0,0
 5/13/20,Faroe Islands,Denmark,61.8926,-6.9118,187,187,0,0
+5/14/20,Faroe Islands,Denmark,61.8926,-6.9118,187,187,0,0
+5/15/20,Faroe Islands,Denmark,61.8926,-6.9118,187,187,0,0
 1/22/20,Greenland,Denmark,71.7069,-42.6043,0,0,0,0
 1/23/20,Greenland,Denmark,71.7069,-42.6043,0,0,0,0
 1/24/20,Greenland,Denmark,71.7069,-42.6043,0,0,0,0
@@ -10621,6 +10807,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Greenland,Denmark,71.7069,-42.6043,11,11,0,0
 5/12/20,Greenland,Denmark,71.7069,-42.6043,11,11,0,0
 5/13/20,Greenland,Denmark,71.7069,-42.6043,11,11,0,0
+5/14/20,Greenland,Denmark,71.7069,-42.6043,11,11,0,0
+5/15/20,Greenland,Denmark,71.7069,-42.6043,11,11,0,0
 1/22/20,,Denmark,56.2639,9.5018,0,0,0,0
 1/23/20,,Denmark,56.2639,9.5018,0,0,0,0
 1/24/20,,Denmark,56.2639,9.5018,0,0,0,0
@@ -10734,6 +10922,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Denmark,56.2639,9.5018,10513,8328,533,1652
 5/12/20,,Denmark,56.2639,9.5018,10591,8580,527,1484
 5/13/20,,Denmark,56.2639,9.5018,10667,8663,533,1471
+5/14/20,,Denmark,56.2639,9.5018,10713,8805,537,1371
+5/15/20,,Denmark,56.2639,9.5018,10791,8959,537,1295
 1/22/20,,Djibouti,11.8251,42.5903,0,0,0,0
 1/23/20,,Djibouti,11.8251,42.5903,0,0,0,0
 1/24/20,,Djibouti,11.8251,42.5903,0,0,0,0
@@ -10847,6 +11037,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Djibouti,11.8251,42.5903,1227,872,3,352
 5/12/20,,Djibouti,11.8251,42.5903,1256,886,3,367
 5/13/20,,Djibouti,11.8251,42.5903,1268,900,3,365
+5/14/20,,Djibouti,11.8251,42.5903,1284,905,3,376
+5/15/20,,Djibouti,11.8251,42.5903,1309,935,4,370
 1/22/20,,Dominican Republic,18.7357,-70.1627,0,0,0,0
 1/23/20,,Dominican Republic,18.7357,-70.1627,0,0,0,0
 1/24/20,,Dominican Republic,18.7357,-70.1627,0,0,0,0
@@ -10960,6 +11152,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Dominican Republic,18.7357,-70.1627,10634,2870,393,7371
 5/12/20,,Dominican Republic,18.7357,-70.1627,10900,3221,402,7277
 5/13/20,,Dominican Republic,18.7357,-70.1627,11196,3221,409,7566
+5/14/20,,Dominican Republic,18.7357,-70.1627,11320,3351,422,7547
+5/15/20,,Dominican Republic,18.7357,-70.1627,11739,3557,424,7758
 1/22/20,,Ecuador,-1.8312,-78.1834,0,0,0,0
 1/23/20,,Ecuador,-1.8312,-78.1834,0,0,0,0
 1/24/20,,Ecuador,-1.8312,-78.1834,0,0,0,0
@@ -11073,6 +11267,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Ecuador,-1.8312,-78.1834,29509,3433,2145,23931
 5/12/20,,Ecuador,-1.8312,-78.1834,30419,3433,2327,24659
 5/13/20,,Ecuador,-1.8312,-78.1834,30486,3433,2334,24719
+5/14/20,,Ecuador,-1.8312,-78.1834,30502,3433,2338,24731
+5/15/20,,Ecuador,-1.8312,-78.1834,31467,3433,2594,25440
 1/22/20,,Egypt,26.0,30.0,0,0,0,0
 1/23/20,,Egypt,26.0,30.0,0,0,0,0
 1/24/20,,Egypt,26.0,30.0,0,0,0,0
@@ -11186,6 +11382,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Egypt,26.0,30.0,9746,2172,533,7041
 5/12/20,,Egypt,26.0,30.0,10093,2326,544,7223
 5/13/20,,Egypt,26.0,30.0,10431,2486,556,7389
+5/14/20,,Egypt,26.0,30.0,10829,2626,571,7632
+5/15/20,,Egypt,26.0,30.0,11228,2799,592,7837
 1/22/20,,El Salvador,13.7942,-88.8965,0,0,0,0
 1/23/20,,El Salvador,13.7942,-88.8965,0,0,0,0
 1/24/20,,El Salvador,13.7942,-88.8965,0,0,0,0
@@ -11299,6 +11497,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,El Salvador,13.7942,-88.8965,958,325,18,615
 5/12/20,,El Salvador,13.7942,-88.8965,998,349,20,629
 5/13/20,,El Salvador,13.7942,-88.8965,1037,374,20,643
+5/14/20,,El Salvador,13.7942,-88.8965,1112,405,23,684
+5/15/20,,El Salvador,13.7942,-88.8965,1210,417,25,768
 1/22/20,,Equatorial Guinea,1.5,10.0,0,0,0,0
 1/23/20,,Equatorial Guinea,1.5,10.0,0,0,0,0
 1/24/20,,Equatorial Guinea,1.5,10.0,0,0,0,0
@@ -11412,6 +11612,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Equatorial Guinea,1.5,10.0,439,13,4,422
 5/12/20,,Equatorial Guinea,1.5,10.0,439,13,4,422
 5/13/20,,Equatorial Guinea,1.5,10.0,522,13,6,503
+5/14/20,,Equatorial Guinea,1.5,10.0,583,13,7,563
+5/15/20,,Equatorial Guinea,1.5,10.0,594,22,7,565
 1/22/20,,Eritrea,15.1794,39.7823,0,0,0,0
 1/23/20,,Eritrea,15.1794,39.7823,0,0,0,0
 1/24/20,,Eritrea,15.1794,39.7823,0,0,0,0
@@ -11525,6 +11727,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Eritrea,15.1794,39.7823,39,38,0,1
 5/12/20,,Eritrea,15.1794,39.7823,39,38,0,1
 5/13/20,,Eritrea,15.1794,39.7823,39,38,0,1
+5/14/20,,Eritrea,15.1794,39.7823,39,38,0,1
+5/15/20,,Eritrea,15.1794,39.7823,39,39,0,0
 1/22/20,,Estonia,58.5953,25.0136,0,0,0,0
 1/23/20,,Estonia,58.5953,25.0136,0,0,0,0
 1/24/20,,Estonia,58.5953,25.0136,0,0,0,0
@@ -11638,6 +11842,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Estonia,58.5953,25.0136,1741,751,61,929
 5/12/20,,Estonia,58.5953,25.0136,1746,777,61,908
 5/13/20,,Estonia,58.5953,25.0136,1751,777,61,913
+5/14/20,,Estonia,58.5953,25.0136,1758,909,62,787
+5/15/20,,Estonia,58.5953,25.0136,1766,923,63,780
 1/22/20,,Eswatini,-26.5225,31.4659,0,0,0,0
 1/23/20,,Eswatini,-26.5225,31.4659,0,0,0,0
 1/24/20,,Eswatini,-26.5225,31.4659,0,0,0,0
@@ -11751,6 +11957,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Eswatini,-26.5225,31.4659,175,28,2,145
 5/12/20,,Eswatini,-26.5225,31.4659,184,28,2,154
 5/13/20,,Eswatini,-26.5225,31.4659,187,48,2,137
+5/14/20,,Eswatini,-26.5225,31.4659,187,51,2,134
+5/15/20,,Eswatini,-26.5225,31.4659,190,66,2,122
 1/22/20,,Ethiopia,9.145,40.4897,0,0,0,0
 1/23/20,,Ethiopia,9.145,40.4897,0,0,0,0
 1/24/20,,Ethiopia,9.145,40.4897,0,0,0,0
@@ -11864,6 +12072,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Ethiopia,9.145,40.4897,250,105,5,140
 5/12/20,,Ethiopia,9.145,40.4897,261,106,5,150
 5/13/20,,Ethiopia,9.145,40.4897,263,108,5,150
+5/14/20,,Ethiopia,9.145,40.4897,272,108,5,159
+5/15/20,,Ethiopia,9.145,40.4897,287,112,5,170
 1/22/20,,Fiji,-17.7134,178.065,0,0,0,0
 1/23/20,,Fiji,-17.7134,178.065,0,0,0,0
 1/24/20,,Fiji,-17.7134,178.065,0,0,0,0
@@ -11977,6 +12187,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Fiji,-17.7134,178.065,18,14,0,4
 5/12/20,,Fiji,-17.7134,178.065,18,14,0,4
 5/13/20,,Fiji,-17.7134,178.065,18,14,0,4
+5/14/20,,Fiji,-17.7134,178.065,18,14,0,4
+5/15/20,,Fiji,-17.7134,178.065,18,15,0,3
 1/22/20,,Finland,64.0,26.0,0,0,0,0
 1/23/20,,Finland,64.0,26.0,0,0,0,0
 1/24/20,,Finland,64.0,26.0,0,0,0,0
@@ -12090,6 +12302,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Finland,64.0,26.0,5984,4000,271,1713
 5/12/20,,Finland,64.0,26.0,6003,4300,275,1428
 5/13/20,,Finland,64.0,26.0,6054,4300,284,1470
+5/14/20,,Finland,64.0,26.0,6145,4300,287,1558
+5/15/20,,Finland,64.0,26.0,6228,5000,293,935
 1/22/20,French Guiana,France,3.9339,-53.1258,0,0,0,0
 1/23/20,French Guiana,France,3.9339,-53.1258,0,0,0,0
 1/24/20,French Guiana,France,3.9339,-53.1258,0,0,0,0
@@ -12203,6 +12417,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,French Guiana,France,3.9339,-53.1258,144,122,1,21
 5/12/20,French Guiana,France,3.9339,-53.1258,144,122,1,21
 5/13/20,French Guiana,France,3.9339,-53.1258,153,124,1,28
+5/14/20,French Guiana,France,3.9339,-53.1258,164,124,1,39
+5/15/20,French Guiana,France,3.9339,-53.1258,189,124,1,64
 1/22/20,French Polynesia,France,-17.6797,149.4068,0,0,0,0
 1/23/20,French Polynesia,France,-17.6797,149.4068,0,0,0,0
 1/24/20,French Polynesia,France,-17.6797,149.4068,0,0,0,0
@@ -12316,6 +12532,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,French Polynesia,France,-17.6797,149.4068,60,56,0,4
 5/12/20,French Polynesia,France,-17.6797,149.4068,60,58,0,2
 5/13/20,French Polynesia,France,-17.6797,149.4068,60,58,0,2
+5/14/20,French Polynesia,France,-17.6797,149.4068,60,59,0,1
+5/15/20,French Polynesia,France,-17.6797,149.4068,60,59,0,1
 1/22/20,Guadeloupe,France,16.25,-61.5833,0,0,0,0
 1/23/20,Guadeloupe,France,16.25,-61.5833,0,0,0,0
 1/24/20,Guadeloupe,France,16.25,-61.5833,0,0,0,0
@@ -12429,6 +12647,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Guadeloupe,France,16.25,-61.5833,154,104,13,37
 5/12/20,Guadeloupe,France,16.25,-61.5833,155,109,13,33
 5/13/20,Guadeloupe,France,16.25,-61.5833,155,109,13,33
+5/14/20,Guadeloupe,France,16.25,-61.5833,155,109,13,33
+5/15/20,Guadeloupe,France,16.25,-61.5833,155,109,13,33
 1/22/20,Mayotte,France,-12.8275,45.1662,0,0,0,0
 1/23/20,Mayotte,France,-12.8275,45.1662,0,0,0,0
 1/24/20,Mayotte,France,-12.8275,45.1662,0,0,0,0
@@ -12542,6 +12762,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Mayotte,France,-12.8275,45.1662,1023,492,11,520
 5/12/20,Mayotte,France,-12.8275,45.1662,1095,492,12,591
 5/13/20,Mayotte,France,-12.8275,45.1662,1143,627,14,502
+5/14/20,Mayotte,France,-12.8275,45.1662,1210,627,16,567
+5/15/20,Mayotte,France,-12.8275,45.1662,1210,627,16,567
 1/22/20,New Caledonia,France,-20.9043,165.618,0,0,0,0
 1/23/20,New Caledonia,France,-20.9043,165.618,0,0,0,0
 1/24/20,New Caledonia,France,-20.9043,165.618,0,0,0,0
@@ -12655,6 +12877,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,New Caledonia,France,-20.9043,165.618,18,18,0,0
 5/12/20,New Caledonia,France,-20.9043,165.618,18,18,0,0
 5/13/20,New Caledonia,France,-20.9043,165.618,18,18,0,0
+5/14/20,New Caledonia,France,-20.9043,165.618,18,18,0,0
+5/15/20,New Caledonia,France,-20.9043,165.618,18,18,0,0
 1/22/20,Reunion,France,-21.1351,55.2471,0,0,0,0
 1/23/20,Reunion,France,-21.1351,55.2471,0,0,0,0
 1/24/20,Reunion,France,-21.1351,55.2471,0,0,0,0
@@ -12768,6 +12992,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Reunion,France,-21.1351,55.2471,436,354,0,82
 5/12/20,Reunion,France,-21.1351,55.2471,437,354,0,83
 5/13/20,Reunion,France,-21.1351,55.2471,439,354,0,85
+5/14/20,Reunion,France,-21.1351,55.2471,440,354,0,86
+5/15/20,Reunion,France,-21.1351,55.2471,441,354,0,87
 1/22/20,Saint Barthelemy,France,17.9,-62.8333,0,0,0,0
 1/23/20,Saint Barthelemy,France,17.9,-62.8333,0,0,0,0
 1/24/20,Saint Barthelemy,France,17.9,-62.8333,0,0,0,0
@@ -12881,6 +13107,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Saint Barthelemy,France,17.9,-62.8333,6,6,0,0
 5/12/20,Saint Barthelemy,France,17.9,-62.8333,6,6,0,0
 5/13/20,Saint Barthelemy,France,17.9,-62.8333,6,6,0,0
+5/14/20,Saint Barthelemy,France,17.9,-62.8333,6,6,0,0
+5/15/20,Saint Barthelemy,France,17.9,-62.8333,6,6,0,0
 1/22/20,St Martin,France,18.0708,-63.0501,0,0,0,0
 1/23/20,St Martin,France,18.0708,-63.0501,0,0,0,0
 1/24/20,St Martin,France,18.0708,-63.0501,0,0,0,0
@@ -12994,6 +13222,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,St Martin,France,18.0708,-63.0501,39,30,3,6
 5/12/20,St Martin,France,18.0708,-63.0501,39,30,3,6
 5/13/20,St Martin,France,18.0708,-63.0501,39,30,3,6
+5/14/20,St Martin,France,18.0708,-63.0501,39,30,3,6
+5/15/20,St Martin,France,18.0708,-63.0501,39,30,3,6
 1/22/20,Martinique,France,14.6415,-61.0242,0,0,0,0
 1/23/20,Martinique,France,14.6415,-61.0242,0,0,0,0
 1/24/20,Martinique,France,14.6415,-61.0242,0,0,0,0
@@ -13107,6 +13337,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Martinique,France,14.6415,-61.0242,187,83,14,90
 5/12/20,Martinique,France,14.6415,-61.0242,187,91,14,82
 5/13/20,Martinique,France,14.6415,-61.0242,189,91,14,84
+5/14/20,Martinique,France,14.6415,-61.0242,189,91,14,84
+5/15/20,Martinique,France,14.6415,-61.0242,192,91,14,87
 1/22/20,,France,46.2276,2.2137,0,0,0,0
 1/23/20,,France,46.2276,2.2137,0,0,0,0
 1/24/20,,France,46.2276,2.2137,2,0,0,2
@@ -13220,6 +13452,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,France,46.2276,2.2137,175479,55569,26604,93306
 5/12/20,,France,46.2276,2.2137,176207,56617,26951,92639
 5/13/20,,France,46.2276,2.2137,175981,57368,27032,91581
+5/14/20,,France,46.2276,2.2137,176712,58300,27381,91031
+5/15/20,,France,46.2276,2.2137,177319,59143,27485,90691
 1/22/20,,Gabon,-0.8037,11.6094,0,0,0,0
 1/23/20,,Gabon,-0.8037,11.6094,0,0,0,0
 1/24/20,,Gabon,-0.8037,11.6094,0,0,0,0
@@ -13333,6 +13567,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Gabon,-0.8037,11.6094,802,127,9,666
 5/12/20,,Gabon,-0.8037,11.6094,863,137,9,717
 5/13/20,,Gabon,-0.8037,11.6094,1004,152,9,843
+5/14/20,,Gabon,-0.8037,11.6094,1104,182,10,912
+5/15/20,,Gabon,-0.8037,11.6094,1209,219,10,980
 1/22/20,,Gambia,13.4432,-15.3101,0,0,0,0
 1/23/20,,Gambia,13.4432,-15.3101,0,0,0,0
 1/24/20,,Gambia,13.4432,-15.3101,0,0,0,0
@@ -13446,6 +13682,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Gambia,13.4432,-15.3101,22,10,1,11
 5/12/20,,Gambia,13.4432,-15.3101,22,10,1,11
 5/13/20,,Gambia,13.4432,-15.3101,23,10,1,12
+5/14/20,,Gambia,13.4432,-15.3101,23,10,1,12
+5/15/20,,Gambia,13.4432,-15.3101,23,10,1,12
 1/22/20,,Georgia,42.3154,43.3569,0,0,0,0
 1/23/20,,Georgia,42.3154,43.3569,0,0,0,0
 1/24/20,,Georgia,42.3154,43.3569,0,0,0,0
@@ -13559,6 +13797,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Georgia,42.3154,43.3569,638,317,11,310
 5/12/20,,Georgia,42.3154,43.3569,642,349,11,282
 5/13/20,,Georgia,42.3154,43.3569,647,372,11,264
+5/14/20,,Georgia,42.3154,43.3569,667,383,12,272
+5/15/20,,Georgia,42.3154,43.3569,671,393,12,266
 1/22/20,,Germany,51.0,9.0,0,0,0,0
 1/23/20,,Germany,51.0,9.0,0,0,0,0
 1/24/20,,Germany,51.0,9.0,0,0,0,0
@@ -13672,6 +13912,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Germany,51.0,9.0,172576,145617,7661,19298
 5/12/20,,Germany,51.0,9.0,173171,147200,7738,18233
 5/13/20,,Germany,51.0,9.0,174098,148700,7861,17537
+5/14/20,,Germany,51.0,9.0,174478,150300,7884,16294
+5/15/20,,Germany,51.0,9.0,175233,151597,7897,15739
 1/22/20,,Ghana,7.9465,-1.0232,0,0,0,0
 1/23/20,,Ghana,7.9465,-1.0232,0,0,0,0
 1/24/20,,Ghana,7.9465,-1.0232,0,0,0,0
@@ -13785,6 +14027,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Ghana,7.9465,-1.0232,4700,494,22,4184
 5/12/20,,Ghana,7.9465,-1.0232,5127,494,22,4611
 5/13/20,,Ghana,7.9465,-1.0232,5408,514,24,4870
+5/14/20,,Ghana,7.9465,-1.0232,5530,674,24,4832
+5/15/20,,Ghana,7.9465,-1.0232,5638,1460,28,4150
 1/22/20,,Greece,39.0742,21.8243,0,0,0,0
 1/23/20,,Greece,39.0742,21.8243,0,0,0,0
 1/24/20,,Greece,39.0742,21.8243,0,0,0,0
@@ -13898,6 +14142,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Greece,39.0742,21.8243,2726,1374,151,1201
 5/12/20,,Greece,39.0742,21.8243,2744,1374,152,1218
 5/13/20,,Greece,39.0742,21.8243,2760,1374,155,1231
+5/14/20,,Greece,39.0742,21.8243,2770,1374,156,1240
+5/15/20,,Greece,39.0742,21.8243,2810,1374,160,1276
 1/22/20,,Guatemala,15.7835,-90.2308,0,0,0,0
 1/23/20,,Guatemala,15.7835,-90.2308,0,0,0,0
 1/24/20,,Guatemala,15.7835,-90.2308,0,0,0,0
@@ -14011,6 +14257,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Guatemala,15.7835,-90.2308,1114,111,26,977
 5/12/20,,Guatemala,15.7835,-90.2308,1199,120,27,1052
 5/13/20,,Guatemala,15.7835,-90.2308,1342,121,29,1192
+5/14/20,,Guatemala,15.7835,-90.2308,1518,129,29,1360
+5/15/20,,Guatemala,15.7835,-90.2308,1643,135,30,1478
 1/22/20,,Guinea,9.9456,-9.6966,0,0,0,0
 1/23/20,,Guinea,9.9456,-9.6966,0,0,0,0
 1/24/20,,Guinea,9.9456,-9.6966,0,0,0,0
@@ -14124,6 +14372,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Guinea,9.9456,-9.6966,2146,714,11,1421
 5/12/20,,Guinea,9.9456,-9.6966,2298,816,11,1471
 5/13/20,,Guinea,9.9456,-9.6966,2374,856,14,1504
+5/14/20,,Guinea,9.9456,-9.6966,2473,895,15,1563
+5/15/20,,Guinea,9.9456,-9.6966,2473,895,15,1563
 1/22/20,,Guyana,5.0,-58.75,0,0,0,0
 1/23/20,,Guyana,5.0,-58.75,0,0,0,0
 1/24/20,,Guyana,5.0,-58.75,0,0,0,0
@@ -14237,6 +14487,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Guyana,5.0,-58.75,109,36,10,63
 5/12/20,,Guyana,5.0,-58.75,113,36,10,67
 5/13/20,,Guyana,5.0,-58.75,113,41,10,62
+5/14/20,,Guyana,5.0,-58.75,113,42,10,61
+5/15/20,,Guyana,5.0,-58.75,116,43,10,63
 1/22/20,,Haiti,18.9712,-72.2852,0,0,0,0
 1/23/20,,Haiti,18.9712,-72.2852,0,0,0,0
 1/24/20,,Haiti,18.9712,-72.2852,0,0,0,0
@@ -14350,6 +14602,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Haiti,18.9712,-72.2852,209,17,16,176
 5/12/20,,Haiti,18.9712,-72.2852,209,17,16,176
 5/13/20,,Haiti,18.9712,-72.2852,234,17,18,199
+5/14/20,,Haiti,18.9712,-72.2852,273,18,20,235
+5/15/20,,Haiti,18.9712,-72.2852,310,29,20,261
 1/22/20,,Holy See,41.9029,12.4534,0,0,0,0
 1/23/20,,Holy See,41.9029,12.4534,0,0,0,0
 1/24/20,,Holy See,41.9029,12.4534,0,0,0,0
@@ -14463,6 +14717,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Holy See,41.9029,12.4534,12,2,0,10
 5/12/20,,Holy See,41.9029,12.4534,12,2,0,10
 5/13/20,,Holy See,41.9029,12.4534,12,2,0,10
+5/14/20,,Holy See,41.9029,12.4534,12,2,0,10
+5/15/20,,Holy See,41.9029,12.4534,12,2,0,10
 1/22/20,,Honduras,15.2,-86.2419,0,0,0,0
 1/23/20,,Honduras,15.2,-86.2419,0,0,0,0
 1/24/20,,Honduras,15.2,-86.2419,0,0,0,0
@@ -14576,6 +14832,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Honduras,15.2,-86.2419,2100,206,116,1778
 5/12/20,,Honduras,15.2,-86.2419,2080,211,121,1748
 5/13/20,,Honduras,15.2,-86.2419,2255,237,123,1895
+5/14/20,,Honduras,15.2,-86.2419,2318,253,133,1932
+5/15/20,,Honduras,15.2,-86.2419,2460,264,134,2062
 1/22/20,,Hungary,47.1625,19.5033,0,0,0,0
 1/23/20,,Hungary,47.1625,19.5033,0,0,0,0
 1/24/20,,Hungary,47.1625,19.5033,0,0,0,0
@@ -14689,6 +14947,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Hungary,47.1625,19.5033,3284,958,421,1905
 5/12/20,,Hungary,47.1625,19.5033,3313,1007,425,1881
 5/13/20,,Hungary,47.1625,19.5033,3341,1102,430,1809
+5/14/20,,Hungary,47.1625,19.5033,3380,1169,436,1775
+5/15/20,,Hungary,47.1625,19.5033,3417,1287,442,1688
 1/22/20,,Iceland,64.9631,-19.0208,0,0,0,0
 1/23/20,,Iceland,64.9631,-19.0208,0,0,0,0
 1/24/20,,Iceland,64.9631,-19.0208,0,0,0,0
@@ -14802,6 +15062,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Iceland,64.9631,-19.0208,1801,1773,10,18
 5/12/20,,Iceland,64.9631,-19.0208,1801,1776,10,15
 5/13/20,,Iceland,64.9631,-19.0208,1802,1780,10,12
+5/14/20,,Iceland,64.9631,-19.0208,1802,1780,10,12
+5/15/20,,Iceland,64.9631,-19.0208,1802,1782,10,10
 1/22/20,,India,21.0,78.0,0,0,0,0
 1/23/20,,India,21.0,78.0,0,0,0,0
 1/24/20,,India,21.0,78.0,0,0,0,0
@@ -14915,6 +15177,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,India,21.0,78.0,70768,22549,2294,45925
 5/12/20,,India,21.0,78.0,74292,24420,2415,47457
 5/13/20,,India,21.0,78.0,78055,26400,2551,49104
+5/14/20,,India,21.0,78.0,81997,27969,2649,51379
+5/15/20,,India,21.0,78.0,85784,30258,2753,52773
 1/22/20,,Indonesia,-0.7893,113.9213,0,0,0,0
 1/23/20,,Indonesia,-0.7893,113.9213,0,0,0,0
 1/24/20,,Indonesia,-0.7893,113.9213,0,0,0,0
@@ -15028,6 +15292,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Indonesia,-0.7893,113.9213,14265,2881,991,10393
 5/12/20,,Indonesia,-0.7893,113.9213,14749,3063,1007,10679
 5/13/20,,Indonesia,-0.7893,113.9213,15438,3287,1028,11123
+5/14/20,,Indonesia,-0.7893,113.9213,16006,3518,1043,11445
+5/15/20,,Indonesia,-0.7893,113.9213,16496,3803,1076,11617
 1/22/20,,Iran,32.0,53.0,0,0,0,0
 1/23/20,,Iran,32.0,53.0,0,0,0,0
 1/24/20,,Iran,32.0,53.0,0,0,0,0
@@ -15141,6 +15407,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Iran,32.0,53.0,109286,87422,6685,15179
 5/12/20,,Iran,32.0,53.0,110767,88357,6733,15677
 5/13/20,,Iran,32.0,53.0,112725,89428,6783,16514
+5/14/20,,Iran,32.0,53.0,114533,90539,6854,17140
+5/15/20,,Iran,32.0,53.0,116635,91836,6902,17897
 1/22/20,,Iraq,33.0,44.0,0,0,0,0
 1/23/20,,Iraq,33.0,44.0,0,0,0,0
 1/24/20,,Iraq,33.0,44.0,0,0,0,0
@@ -15254,6 +15522,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Iraq,33.0,44.0,2818,1790,110,918
 5/12/20,,Iraq,33.0,44.0,2913,1903,112,898
 5/13/20,,Iraq,33.0,44.0,3032,1966,115,951
+5/14/20,,Iraq,33.0,44.0,3143,2028,115,1000
+5/15/20,,Iraq,33.0,44.0,3193,2089,117,987
 1/22/20,,Ireland,53.1424,-7.6921,0,0,0,0
 1/23/20,,Ireland,53.1424,-7.6921,0,0,0,0
 1/24/20,,Ireland,53.1424,-7.6921,0,0,0,0
@@ -15367,6 +15637,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Ireland,53.1424,-7.6921,23135,17110,1467,4558
 5/12/20,,Ireland,53.1424,-7.6921,23242,17110,1488,4644
 5/13/20,,Ireland,53.1424,-7.6921,23401,19470,1497,2434
+5/14/20,,Ireland,53.1424,-7.6921,23827,19470,1506,2851
+5/15/20,,Ireland,53.1424,-7.6921,23956,19470,1518,2968
 1/22/20,,Israel,31.0,35.0,0,0,0,0
 1/23/20,,Israel,31.0,35.0,0,0,0,0
 1/24/20,,Israel,31.0,35.0,0,0,0,0
@@ -15480,6 +15752,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Israel,31.0,35.0,16506,11843,258,4405
 5/12/20,,Israel,31.0,35.0,16529,12083,260,4186
 5/13/20,,Israel,31.0,35.0,16548,12232,264,4052
+5/14/20,,Israel,31.0,35.0,16579,12521,265,3793
+5/15/20,,Israel,31.0,35.0,16589,12587,266,3736
 1/22/20,,Italy,43.0,12.0,0,0,0,0
 1/23/20,,Italy,43.0,12.0,0,0,0,0
 1/24/20,,Italy,43.0,12.0,0,0,0,0
@@ -15593,6 +15867,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Italy,43.0,12.0,219814,106587,30739,82488
 5/12/20,,Italy,43.0,12.0,221216,109039,30911,81266
 5/13/20,,Italy,43.0,12.0,222104,112541,31106,78457
+5/14/20,,Italy,43.0,12.0,223096,115288,31368,76440
+5/15/20,,Italy,43.0,12.0,223885,120205,31610,72070
 1/22/20,,Jamaica,18.1096,-77.2975,0,0,0,0
 1/23/20,,Jamaica,18.1096,-77.2975,0,0,0,0
 1/24/20,,Jamaica,18.1096,-77.2975,0,0,0,0
@@ -15706,6 +15982,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Jamaica,18.1096,-77.2975,505,90,9,406
 5/12/20,,Jamaica,18.1096,-77.2975,507,100,9,398
 5/13/20,,Jamaica,18.1096,-77.2975,509,113,9,387
+5/14/20,,Jamaica,18.1096,-77.2975,509,118,9,382
+5/15/20,,Jamaica,18.1096,-77.2975,511,121,9,381
 1/22/20,,Japan,36.0,138.0,2,0,0,2
 1/23/20,,Japan,36.0,138.0,2,0,0,2
 1/24/20,,Japan,36.0,138.0,2,0,0,2
@@ -15819,6 +16097,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Japan,36.0,138.0,15847,8293,633,6921
 5/12/20,,Japan,36.0,138.0,15968,8531,657,6780
 5/13/20,,Japan,36.0,138.0,16049,8920,678,6451
+5/14/20,,Japan,36.0,138.0,16120,9868,697,5555
+5/15/20,,Japan,36.0,138.0,16203,10338,713,5152
 1/22/20,,Jordan,31.24,36.51,0,0,0,0
 1/23/20,,Jordan,31.24,36.51,0,0,0,0
 1/24/20,,Jordan,31.24,36.51,0,0,0,0
@@ -15932,6 +16212,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Jordan,31.24,36.51,562,390,9,163
 5/12/20,,Jordan,31.24,36.51,576,390,9,177
 5/13/20,,Jordan,31.24,36.51,582,392,9,181
+5/14/20,,Jordan,31.24,36.51,586,393,9,184
+5/15/20,,Jordan,31.24,36.51,596,401,9,186
 1/22/20,,Kazakhstan,48.0196,66.9237,0,0,0,0
 1/23/20,,Kazakhstan,48.0196,66.9237,0,0,0,0
 1/24/20,,Kazakhstan,48.0196,66.9237,0,0,0,0
@@ -16045,6 +16327,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Kazakhstan,48.0196,66.9237,5207,2074,32,3101
 5/12/20,,Kazakhstan,48.0196,66.9237,5279,2223,32,3024
 5/13/20,,Kazakhstan,48.0196,66.9237,5417,2408,32,2977
+5/14/20,,Kazakhstan,48.0196,66.9237,5571,2531,32,3008
+5/15/20,,Kazakhstan,48.0196,66.9237,5689,2707,34,2948
 1/22/20,,Kenya,-0.0236,37.9062,0,0,0,0
 1/23/20,,Kenya,-0.0236,37.9062,0,0,0,0
 1/24/20,,Kenya,-0.0236,37.9062,0,0,0,0
@@ -16158,6 +16442,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Kenya,-0.0236,37.9062,700,251,33,416
 5/12/20,,Kenya,-0.0236,37.9062,715,259,36,420
 5/13/20,,Kenya,-0.0236,37.9062,737,281,40,416
+5/14/20,,Kenya,-0.0236,37.9062,758,284,42,432
+5/15/20,,Kenya,-0.0236,37.9062,781,284,45,452
 1/22/20,,"Korea, South",36.0,128.0,1,0,0,1
 1/23/20,,"Korea, South",36.0,128.0,1,0,0,1
 1/24/20,,"Korea, South",36.0,128.0,2,0,0,2
@@ -16271,6 +16557,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,"Korea, South",36.0,128.0,10936,9670,258,1008
 5/12/20,,"Korea, South",36.0,128.0,10962,9695,259,1008
 5/13/20,,"Korea, South",36.0,128.0,10991,9762,260,969
+5/14/20,,"Korea, South",36.0,128.0,11018,9821,260,937
+5/15/20,,"Korea, South",36.0,128.0,11037,9851,262,924
 1/22/20,,Kuwait,29.5,47.75,0,0,0,0
 1/23/20,,Kuwait,29.5,47.75,0,0,0,0
 1/24/20,,Kuwait,29.5,47.75,0,0,0,0
@@ -16384,6 +16672,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Kuwait,29.5,47.75,9286,2907,65,6314
 5/12/20,,Kuwait,29.5,47.75,10277,3101,75,7101
 5/13/20,,Kuwait,29.5,47.75,11028,3263,82,7683
+5/14/20,,Kuwait,29.5,47.75,11975,3451,88,8436
+5/15/20,,Kuwait,29.5,47.75,12860,3640,96,9124
 1/22/20,,Kyrgyzstan,41.2044,74.7661,0,0,0,0
 1/23/20,,Kyrgyzstan,41.2044,74.7661,0,0,0,0
 1/24/20,,Kyrgyzstan,41.2044,74.7661,0,0,0,0
@@ -16497,6 +16787,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Kyrgyzstan,41.2044,74.7661,1016,688,12,316
 5/12/20,,Kyrgyzstan,41.2044,74.7661,1037,709,12,316
 5/13/20,,Kyrgyzstan,41.2044,74.7661,1044,726,12,306
+5/14/20,,Kyrgyzstan,41.2044,74.7661,1082,735,12,335
+5/15/20,,Kyrgyzstan,41.2044,74.7661,1111,745,14,352
 1/22/20,,Latvia,56.8796,24.6032,0,0,0,0
 1/23/20,,Latvia,56.8796,24.6032,0,0,0,0
 1/24/20,,Latvia,56.8796,24.6032,0,0,0,0
@@ -16610,6 +16902,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Latvia,56.8796,24.6032,946,464,18,464
 5/12/20,,Latvia,56.8796,24.6032,950,627,18,305
 5/13/20,,Latvia,56.8796,24.6032,951,627,19,305
+5/14/20,,Latvia,56.8796,24.6032,962,627,19,316
+5/15/20,,Latvia,56.8796,24.6032,970,662,19,289
 1/22/20,,Lebanon,33.8547,35.8623,0,0,0,0
 1/23/20,,Lebanon,33.8547,35.8623,0,0,0,0
 1/24/20,,Lebanon,33.8547,35.8623,0,0,0,0
@@ -16723,6 +17017,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Lebanon,33.8547,35.8623,859,234,26,599
 5/12/20,,Lebanon,33.8547,35.8623,870,234,26,610
 5/13/20,,Lebanon,33.8547,35.8623,878,236,26,616
+5/14/20,,Lebanon,33.8547,35.8623,886,236,26,624
+5/15/20,,Lebanon,33.8547,35.8623,891,246,26,619
 1/22/20,,Liberia,6.4281,-9.4295,0,0,0,0
 1/23/20,,Liberia,6.4281,-9.4295,0,0,0,0
 1/24/20,,Liberia,6.4281,-9.4295,0,0,0,0
@@ -16836,6 +17132,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Liberia,6.4281,-9.4295,211,85,20,106
 5/12/20,,Liberia,6.4281,-9.4295,211,85,20,106
 5/13/20,,Liberia,6.4281,-9.4295,213,101,20,92
+5/14/20,,Liberia,6.4281,-9.4295,215,105,20,90
+5/15/20,,Liberia,6.4281,-9.4295,219,108,20,91
 1/22/20,,Liechtenstein,47.14,9.55,0,0,0,0
 1/23/20,,Liechtenstein,47.14,9.55,0,0,0,0
 1/24/20,,Liechtenstein,47.14,9.55,0,0,0,0
@@ -16949,6 +17247,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Liechtenstein,47.14,9.55,82,55,1,26
 5/12/20,,Liechtenstein,47.14,9.55,82,55,1,26
 5/13/20,,Liechtenstein,47.14,9.55,82,55,1,26
+5/14/20,,Liechtenstein,47.14,9.55,82,55,1,26
+5/15/20,,Liechtenstein,47.14,9.55,82,55,1,26
 1/22/20,,Lithuania,55.1694,23.8813,0,0,0,0
 1/23/20,,Lithuania,55.1694,23.8813,0,0,0,0
 1/24/20,,Lithuania,55.1694,23.8813,0,0,0,0
@@ -17062,6 +17362,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Lithuania,55.1694,23.8813,1485,833,50,602
 5/12/20,,Lithuania,55.1694,23.8813,1491,850,50,591
 5/13/20,,Lithuania,55.1694,23.8813,1505,908,54,543
+5/14/20,,Lithuania,55.1694,23.8813,1511,934,54,523
+5/15/20,,Lithuania,55.1694,23.8813,1523,965,54,504
 1/22/20,,Luxembourg,49.8153,6.1296,0,0,0,0
 1/23/20,,Luxembourg,49.8153,6.1296,0,0,0,0
 1/24/20,,Luxembourg,49.8153,6.1296,0,0,0,0
@@ -17175,6 +17477,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Luxembourg,49.8153,6.1296,3888,3602,101,185
 5/12/20,,Luxembourg,49.8153,6.1296,3894,3610,102,182
 5/13/20,,Luxembourg,49.8153,6.1296,3904,3629,103,172
+5/14/20,,Luxembourg,49.8153,6.1296,3915,3665,103,147
+5/15/20,,Luxembourg,49.8153,6.1296,3923,3682,104,137
 1/22/20,,Madagascar,-18.7669,46.8691,0,0,0,0
 1/23/20,,Madagascar,-18.7669,46.8691,0,0,0,0
 1/24/20,,Madagascar,-18.7669,46.8691,0,0,0,0
@@ -17288,6 +17592,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Madagascar,-18.7669,46.8691,186,101,0,85
 5/12/20,,Madagascar,-18.7669,46.8691,186,101,0,85
 5/13/20,,Madagascar,-18.7669,46.8691,212,107,0,105
+5/14/20,,Madagascar,-18.7669,46.8691,230,108,0,122
+5/15/20,,Madagascar,-18.7669,46.8691,238,112,0,126
 1/22/20,,Malaysia,2.5,112.5,0,0,0,0
 1/23/20,,Malaysia,2.5,112.5,0,0,0,0
 1/24/20,,Malaysia,2.5,112.5,0,0,0,0
@@ -17401,6 +17707,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Malaysia,2.5,112.5,6726,5113,109,1504
 5/12/20,,Malaysia,2.5,112.5,6742,5223,109,1410
 5/13/20,,Malaysia,2.5,112.5,6779,5281,111,1387
+5/14/20,,Malaysia,2.5,112.5,6819,5351,112,1356
+5/15/20,,Malaysia,2.5,112.5,6855,5439,112,1304
 1/22/20,,Maldives,3.2028,73.2207,0,0,0,0
 1/23/20,,Maldives,3.2028,73.2207,0,0,0,0
 1/24/20,,Maldives,3.2028,73.2207,0,0,0,0
@@ -17514,6 +17822,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Maldives,3.2028,73.2207,897,29,3,865
 5/12/20,,Maldives,3.2028,73.2207,904,29,3,872
 5/13/20,,Maldives,3.2028,73.2207,955,40,4,911
+5/14/20,,Maldives,3.2028,73.2207,982,45,4,933
+5/15/20,,Maldives,3.2028,73.2207,1031,49,4,978
 1/22/20,,Malta,35.9375,14.3754,0,0,0,0
 1/23/20,,Malta,35.9375,14.3754,0,0,0,0
 1/24/20,,Malta,35.9375,14.3754,0,0,0,0
@@ -17627,6 +17937,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Malta,35.9375,14.3754,503,434,5,64
 5/12/20,,Malta,35.9375,14.3754,506,434,5,67
 5/13/20,,Malta,35.9375,14.3754,508,436,6,66
+5/14/20,,Malta,35.9375,14.3754,522,443,6,73
+5/15/20,,Malta,35.9375,14.3754,532,458,6,68
 1/22/20,,Mauritania,21.0079,10.9408,0,0,0,0
 1/23/20,,Mauritania,21.0079,10.9408,0,0,0,0
 1/24/20,,Mauritania,21.0079,10.9408,0,0,0,0
@@ -17740,6 +18052,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mauritania,21.0079,10.9408,8,6,1,1
 5/12/20,,Mauritania,21.0079,10.9408,9,6,1,2
 5/13/20,,Mauritania,21.0079,10.9408,15,6,2,7
+5/14/20,,Mauritania,21.0079,10.9408,20,7,2,11
+5/15/20,,Mauritania,21.0079,10.9408,29,7,3,19
 1/22/20,,Mauritius,-20.2,57.5,0,0,0,0
 1/23/20,,Mauritius,-20.2,57.5,0,0,0,0
 1/24/20,,Mauritius,-20.2,57.5,0,0,0,0
@@ -17853,6 +18167,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mauritius,-20.2,57.5,332,322,10,0
 5/12/20,,Mauritius,-20.2,57.5,332,322,10,0
 5/13/20,,Mauritius,-20.2,57.5,332,322,10,0
+5/14/20,,Mauritius,-20.2,57.5,332,322,10,0
+5/15/20,,Mauritius,-20.2,57.5,332,322,10,0
 1/22/20,,Mexico,23.6345,-102.5528,0,0,0,0
 1/23/20,,Mexico,23.6345,-102.5528,0,0,0,0
 1/24/20,,Mexico,23.6345,-102.5528,0,0,0,0
@@ -17966,6 +18282,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mexico,23.6345,-102.5528,36327,23100,3573,9654
 5/12/20,,Mexico,23.6345,-102.5528,38324,25935,3926,8463
 5/13/20,,Mexico,23.6345,-102.5528,40186,26990,4220,8976
+5/14/20,,Mexico,23.6345,-102.5528,42595,28475,4477,9643
+5/15/20,,Mexico,23.6345,-102.5528,45032,30451,4767,9814
 1/22/20,,Moldova,47.4116,28.3699,0,0,0,0
 1/23/20,,Moldova,47.4116,28.3699,0,0,0,0
 1/24/20,,Moldova,47.4116,28.3699,0,0,0,0
@@ -18079,6 +18397,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Moldova,47.4116,28.3699,4995,1980,175,2840
 5/12/20,,Moldova,47.4116,28.3699,5154,2069,182,2903
 5/13/20,,Moldova,47.4116,28.3699,5406,2176,185,3045
+5/14/20,,Moldova,47.4116,28.3699,5553,2228,194,3131
+5/15/20,,Moldova,47.4116,28.3699,5745,2228,202,3315
 1/22/20,,Monaco,43.7333,7.4167,0,0,0,0
 1/23/20,,Monaco,43.7333,7.4167,0,0,0,0
 1/24/20,,Monaco,43.7333,7.4167,0,0,0,0
@@ -18192,6 +18512,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Monaco,43.7333,7.4167,96,85,4,7
 5/12/20,,Monaco,43.7333,7.4167,96,85,4,7
 5/13/20,,Monaco,43.7333,7.4167,96,87,4,5
+5/14/20,,Monaco,43.7333,7.4167,96,87,4,5
+5/15/20,,Monaco,43.7333,7.4167,96,87,4,5
 1/22/20,,Mongolia,46.8625,103.8467,0,0,0,0
 1/23/20,,Mongolia,46.8625,103.8467,0,0,0,0
 1/24/20,,Mongolia,46.8625,103.8467,0,0,0,0
@@ -18305,6 +18627,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mongolia,46.8625,103.8467,42,14,0,28
 5/12/20,,Mongolia,46.8625,103.8467,42,15,0,27
 5/13/20,,Mongolia,46.8625,103.8467,42,15,0,27
+5/14/20,,Mongolia,46.8625,103.8467,98,15,0,83
+5/15/20,,Mongolia,46.8625,103.8467,98,20,0,78
 1/22/20,,Montenegro,42.5,19.3,0,0,0,0
 1/23/20,,Montenegro,42.5,19.3,0,0,0,0
 1/24/20,,Montenegro,42.5,19.3,0,0,0,0
@@ -18418,6 +18742,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Montenegro,42.5,19.3,324,294,9,21
 5/12/20,,Montenegro,42.5,19.3,324,298,9,17
 5/13/20,,Montenegro,42.5,19.3,324,307,9,8
+5/14/20,,Montenegro,42.5,19.3,324,309,9,6
+5/15/20,,Montenegro,42.5,19.3,324,311,9,4
 1/22/20,,Morocco,31.7917,-7.0926,0,0,0,0
 1/23/20,,Morocco,31.7917,-7.0926,0,0,0,0
 1/24/20,,Morocco,31.7917,-7.0926,0,0,0,0
@@ -18531,6 +18857,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Morocco,31.7917,-7.0926,6281,2811,188,3282
 5/12/20,,Morocco,31.7917,-7.0926,6418,2991,188,3239
 5/13/20,,Morocco,31.7917,-7.0926,6512,3131,188,3193
+5/14/20,,Morocco,31.7917,-7.0926,6607,3310,190,3107
+5/15/20,,Morocco,31.7917,-7.0926,6652,3400,190,3062
 1/22/20,,Namibia,-22.9576,18.4904,0,0,0,0
 1/23/20,,Namibia,-22.9576,18.4904,0,0,0,0
 1/24/20,,Namibia,-22.9576,18.4904,0,0,0,0
@@ -18644,6 +18972,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Namibia,-22.9576,18.4904,16,11,0,5
 5/12/20,,Namibia,-22.9576,18.4904,16,11,0,5
 5/13/20,,Namibia,-22.9576,18.4904,16,11,0,5
+5/14/20,,Namibia,-22.9576,18.4904,16,12,0,4
+5/15/20,,Namibia,-22.9576,18.4904,16,13,0,3
 1/22/20,,Nepal,28.1667,84.25,0,0,0,0
 1/23/20,,Nepal,28.1667,84.25,0,0,0,0
 1/24/20,,Nepal,28.1667,84.25,0,0,0,0
@@ -18757,6 +19087,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Nepal,28.1667,84.25,134,33,0,101
 5/12/20,,Nepal,28.1667,84.25,217,33,0,184
 5/13/20,,Nepal,28.1667,84.25,250,35,0,215
+5/14/20,,Nepal,28.1667,84.25,249,35,0,214
+5/15/20,,Nepal,28.1667,84.25,267,36,0,231
 1/22/20,Aruba,Netherlands,12.5186,-70.0358,0,0,0,0
 1/23/20,Aruba,Netherlands,12.5186,-70.0358,0,0,0,0
 1/24/20,Aruba,Netherlands,12.5186,-70.0358,0,0,0,0
@@ -18870,6 +19202,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Aruba,Netherlands,12.5186,-70.0358,101,89,3,9
 5/12/20,Aruba,Netherlands,12.5186,-70.0358,101,89,3,9
 5/13/20,Aruba,Netherlands,12.5186,-70.0358,101,91,3,7
+5/14/20,Aruba,Netherlands,12.5186,-70.0358,101,93,3,5
+5/15/20,Aruba,Netherlands,12.5186,-70.0358,101,93,3,5
 1/22/20,Curacao,Netherlands,12.1696,-68.99,0,0,0,0
 1/23/20,Curacao,Netherlands,12.1696,-68.99,0,0,0,0
 1/24/20,Curacao,Netherlands,12.1696,-68.99,0,0,0,0
@@ -18983,6 +19317,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Curacao,Netherlands,12.1696,-68.99,16,14,1,1
 5/12/20,Curacao,Netherlands,12.1696,-68.99,16,14,1,1
 5/13/20,Curacao,Netherlands,12.1696,-68.99,16,14,1,1
+5/14/20,Curacao,Netherlands,12.1696,-68.99,16,14,1,1
+5/15/20,Curacao,Netherlands,12.1696,-68.99,16,14,1,1
 1/22/20,Sint Maarten,Netherlands,18.0425,-63.0548,0,0,0,0
 1/23/20,Sint Maarten,Netherlands,18.0425,-63.0548,0,0,0,0
 1/24/20,Sint Maarten,Netherlands,18.0425,-63.0548,0,0,0,0
@@ -19096,6 +19432,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Sint Maarten,Netherlands,18.0425,-63.0548,76,46,15,15
 5/12/20,Sint Maarten,Netherlands,18.0425,-63.0548,76,46,15,15
 5/13/20,Sint Maarten,Netherlands,18.0425,-63.0548,76,46,15,15
+5/14/20,Sint Maarten,Netherlands,18.0425,-63.0548,76,46,15,15
+5/15/20,Sint Maarten,Netherlands,18.0425,-63.0548,76,46,15,15
 1/22/20,,Netherlands,52.1326,5.2913,0,0,0,0
 1/23/20,,Netherlands,52.1326,5.2913,0,0,0,0
 1/24/20,,Netherlands,52.1326,5.2913,0,0,0,0
@@ -19209,6 +19547,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Netherlands,52.1326,5.2913,42788,0,5456,37332
 5/12/20,,Netherlands,52.1326,5.2913,42984,0,5510,37474
 5/13/20,,Netherlands,52.1326,5.2913,43211,0,5562,37649
+5/14/20,,Netherlands,52.1326,5.2913,43481,0,5590,37891
+5/15/20,,Netherlands,52.1326,5.2913,43681,0,5643,38038
 1/22/20,,New Zealand,-40.9006,174.886,0,0,0,0
 1/23/20,,New Zealand,-40.9006,174.886,0,0,0,0
 1/24/20,,New Zealand,-40.9006,174.886,0,0,0,0
@@ -19322,6 +19662,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,New Zealand,-40.9006,174.886,1497,1398,21,78
 5/12/20,,New Zealand,-40.9006,174.886,1497,1402,21,74
 5/13/20,,New Zealand,-40.9006,174.886,1497,1411,21,65
+5/14/20,,New Zealand,-40.9006,174.886,1498,1421,21,56
+5/15/20,,New Zealand,-40.9006,174.886,1498,1428,21,49
 1/22/20,,Nicaragua,12.8654,-85.2072,0,0,0,0
 1/23/20,,Nicaragua,12.8654,-85.2072,0,0,0,0
 1/24/20,,Nicaragua,12.8654,-85.2072,0,0,0,0
@@ -19435,6 +19777,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Nicaragua,12.8654,-85.2072,16,7,5,4
 5/12/20,,Nicaragua,12.8654,-85.2072,25,7,8,10
 5/13/20,,Nicaragua,12.8654,-85.2072,25,7,8,10
+5/14/20,,Nicaragua,12.8654,-85.2072,25,7,8,10
+5/15/20,,Nicaragua,12.8654,-85.2072,25,7,8,10
 1/22/20,,Niger,17.6078,8.0817,0,0,0,0
 1/23/20,,Niger,17.6078,8.0817,0,0,0,0
 1/24/20,,Niger,17.6078,8.0817,0,0,0,0
@@ -19548,6 +19892,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Niger,17.6078,8.0817,832,637,46,149
 5/12/20,,Niger,17.6078,8.0817,854,648,47,159
 5/13/20,,Niger,17.6078,8.0817,860,658,49,153
+5/14/20,,Niger,17.6078,8.0817,876,677,50,149
+5/15/20,,Niger,17.6078,8.0817,885,684,51,150
 1/22/20,,Nigeria,9.082,8.6753,0,0,0,0
 1/23/20,,Nigeria,9.082,8.6753,0,0,0,0
 1/24/20,,Nigeria,9.082,8.6753,0,0,0,0
@@ -19661,6 +20007,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Nigeria,9.082,8.6753,4641,902,150,3589
 5/12/20,,Nigeria,9.082,8.6753,4787,959,158,3670
 5/13/20,,Nigeria,9.082,8.6753,4971,1070,164,3737
+5/14/20,,Nigeria,9.082,8.6753,5162,1180,167,3815
+5/15/20,,Nigeria,9.082,8.6753,5450,1320,171,3959
 1/22/20,,North Macedonia,41.6086,21.7453,0,0,0,0
 1/23/20,,North Macedonia,41.6086,21.7453,0,0,0,0
 1/24/20,,North Macedonia,41.6086,21.7453,0,0,0,0
@@ -19774,6 +20122,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,North Macedonia,41.6086,21.7453,1664,1200,91,373
 5/12/20,,North Macedonia,41.6086,21.7453,1674,1205,92,377
 5/13/20,,North Macedonia,41.6086,21.7453,1694,1229,95,370
+5/14/20,,North Macedonia,41.6086,21.7453,1723,1235,95,393
+5/15/20,,North Macedonia,41.6086,21.7453,1740,1251,97,392
 1/22/20,,Norway,60.472,8.4689,0,0,0,0
 1/23/20,,Norway,60.472,8.4689,0,0,0,0
 1/24/20,,Norway,60.472,8.4689,0,0,0,0
@@ -19887,6 +20237,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Norway,60.472,8.4689,8132,32,224,7876
 5/12/20,,Norway,60.472,8.4689,8157,32,228,7897
 5/13/20,,Norway,60.472,8.4689,8175,32,229,7914
+5/14/20,,Norway,60.472,8.4689,8196,32,232,7932
+5/15/20,,Norway,60.472,8.4689,8219,32,232,7955
 1/22/20,,Oman,21.0,57.0,0,0,0,0
 1/23/20,,Oman,21.0,57.0,0,0,0,0
 1/24/20,,Oman,21.0,57.0,0,0,0,0
@@ -20000,6 +20352,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Oman,21.0,57.0,3573,1250,17,2306
 5/12/20,,Oman,21.0,57.0,3721,1250,17,2454
 5/13/20,,Oman,21.0,57.0,4019,1289,17,2713
+5/14/20,,Oman,21.0,57.0,4341,1303,18,3020
+5/15/20,,Oman,21.0,57.0,4625,1350,20,3255
 1/22/20,,Pakistan,30.3753,69.3451,0,0,0,0
 1/23/20,,Pakistan,30.3753,69.3451,0,0,0,0
 1/24/20,,Pakistan,30.3753,69.3451,0,0,0,0
@@ -20113,6 +20467,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Pakistan,30.3753,69.3451,32081,8555,706,22820
 5/12/20,,Pakistan,30.3753,69.3451,34336,8812,737,24787
 5/13/20,,Pakistan,30.3753,69.3451,35298,8899,761,25638
+5/14/20,,Pakistan,30.3753,69.3451,35788,9695,770,25323
+5/15/20,,Pakistan,30.3753,69.3451,38799,10880,834,27085
 1/22/20,,Panama,8.538,-80.7821,0,0,0,0
 1/23/20,,Panama,8.538,-80.7821,0,0,0,0
 1/24/20,,Panama,8.538,-80.7821,0,0,0,0
@@ -20226,6 +20582,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Panama,8.538,-80.7821,8616,4687,249,3680
 5/12/20,,Panama,8.538,-80.7821,8783,6021,252,2510
 5/13/20,,Panama,8.538,-80.7821,8944,6067,256,2621
+5/14/20,,Panama,8.538,-80.7821,9118,6080,260,2778
+5/15/20,,Panama,8.538,-80.7821,9268,6080,266,2922
 1/22/20,,Papua New Guinea,-6.315,143.9555,0,0,0,0
 1/23/20,,Papua New Guinea,-6.315,143.9555,0,0,0,0
 1/24/20,,Papua New Guinea,-6.315,143.9555,0,0,0,0
@@ -20339,6 +20697,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Papua New Guinea,-6.315,143.9555,8,8,0,0
 5/12/20,,Papua New Guinea,-6.315,143.9555,8,8,0,0
 5/13/20,,Papua New Guinea,-6.315,143.9555,8,8,0,0
+5/14/20,,Papua New Guinea,-6.315,143.9555,8,8,0,0
+5/15/20,,Papua New Guinea,-6.315,143.9555,8,8,0,0
 1/22/20,,Paraguay,-23.4425,-58.4438,0,0,0,0
 1/23/20,,Paraguay,-23.4425,-58.4438,0,0,0,0
 1/24/20,,Paraguay,-23.4425,-58.4438,0,0,0,0
@@ -20452,6 +20812,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Paraguay,-23.4425,-58.4438,724,170,10,544
 5/12/20,,Paraguay,-23.4425,-58.4438,737,173,10,554
 5/13/20,,Paraguay,-23.4425,-58.4438,740,182,11,547
+5/14/20,,Paraguay,-23.4425,-58.4438,754,184,11,559
+5/15/20,,Paraguay,-23.4425,-58.4438,759,193,11,555
 1/22/20,,Peru,-9.19,-75.0152,0,0,0,0
 1/23/20,,Peru,-9.19,-75.0152,0,0,0,0
 1/24/20,,Peru,-9.19,-75.0152,0,0,0,0
@@ -20565,6 +20927,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Peru,-9.19,-75.0152,68822,22406,1961,44455
 5/12/20,,Peru,-9.19,-75.0152,72059,23324,2057,46678
 5/13/20,,Peru,-9.19,-75.0152,76306,24324,2169,49813
+5/14/20,,Peru,-9.19,-75.0152,80604,25151,2267,53186
+5/15/20,,Peru,-9.19,-75.0152,84495,27147,2392,54956
 1/22/20,,Philippines,13.0,122.0,0,0,0,0
 1/23/20,,Philippines,13.0,122.0,0,0,0,0
 1/24/20,,Philippines,13.0,122.0,0,0,0,0
@@ -20678,6 +21042,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Philippines,13.0,122.0,11086,1999,726,8361
 5/12/20,,Philippines,13.0,122.0,11350,2106,751,8493
 5/13/20,,Philippines,13.0,122.0,11618,2251,772,8595
+5/14/20,,Philippines,13.0,122.0,11876,2337,790,8749
+5/15/20,,Philippines,13.0,122.0,12091,2460,806,8825
 1/22/20,,Poland,51.9194,19.1451,0,0,0,0
 1/23/20,,Poland,51.9194,19.1451,0,0,0,0
 1/24/20,,Poland,51.9194,19.1451,0,0,0,0
@@ -20791,6 +21157,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Poland,51.9194,19.1451,16326,5816,811,9699
 5/12/20,,Poland,51.9194,19.1451,16921,6131,839,9951
 5/13/20,,Poland,51.9194,19.1451,17204,6410,861,9933
+5/14/20,,Poland,51.9194,19.1451,17615,6696,883,10036
+5/15/20,,Poland,51.9194,19.1451,18016,6918,907,10191
 1/22/20,,Portugal,39.3999,-8.2245,0,0,0,0
 1/23/20,,Portugal,39.3999,-8.2245,0,0,0,0
 1/24/20,,Portugal,39.3999,-8.2245,0,0,0,0
@@ -20904,6 +21272,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Portugal,39.3999,-8.2245,27679,2549,1144,23986
 5/12/20,,Portugal,39.3999,-8.2245,27913,3013,1163,23737
 5/13/20,,Portugal,39.3999,-8.2245,28132,3182,1175,23775
+5/14/20,,Portugal,39.3999,-8.2245,28319,3198,1184,23937
+5/15/20,,Portugal,39.3999,-8.2245,28583,3328,1190,24065
 1/22/20,,Qatar,25.3548,51.1839,0,0,0,0
 1/23/20,,Qatar,25.3548,51.1839,0,0,0,0
 1/24/20,,Qatar,25.3548,51.1839,0,0,0,0
@@ -21017,6 +21387,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Qatar,25.3548,51.1839,23623,2840,14,20769
 5/12/20,,Qatar,25.3548,51.1839,25149,3019,14,22116
 5/13/20,,Qatar,25.3548,51.1839,26539,3143,14,23382
+5/14/20,,Qatar,25.3548,51.1839,28272,3356,14,24902
+5/15/20,,Qatar,25.3548,51.1839,29425,3546,14,25865
 1/22/20,,Romania,45.9432,24.9668,0,0,0,0
 1/23/20,,Romania,45.9432,24.9668,0,0,0,0
 1/24/20,,Romania,45.9432,24.9668,0,0,0,0
@@ -21130,6 +21502,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Romania,45.9432,24.9668,15588,7245,982,7361
 5/12/20,,Romania,45.9432,24.9668,15778,7685,1002,7091
 5/13/20,,Romania,45.9432,24.9668,16002,7961,1036,7005
+5/14/20,,Romania,45.9432,24.9668,16247,9053,1053,6141
+5/15/20,,Romania,45.9432,24.9668,16437,9370,1070,5997
 1/22/20,,Russia,60.0,90.0,0,0,0,0
 1/23/20,,Russia,60.0,90.0,0,0,0,0
 1/24/20,,Russia,60.0,90.0,0,0,0,0
@@ -21243,6 +21617,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Russia,60.0,90.0,221344,39801,2009,179534
 5/12/20,,Russia,60.0,90.0,232243,43512,2116,186615
 5/13/20,,Russia,60.0,90.0,242271,48003,2212,192056
+5/14/20,,Russia,60.0,90.0,252245,53530,2305,196410
+5/15/20,,Russia,60.0,90.0,262843,58226,2418,202199
 1/22/20,,Rwanda,-1.9403,29.8739,0,0,0,0
 1/23/20,,Rwanda,-1.9403,29.8739,0,0,0,0
 1/24/20,,Rwanda,-1.9403,29.8739,0,0,0,0
@@ -21356,6 +21732,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Rwanda,-1.9403,29.8739,285,150,0,135
 5/12/20,,Rwanda,-1.9403,29.8739,286,153,0,133
 5/13/20,,Rwanda,-1.9403,29.8739,287,164,0,123
+5/14/20,,Rwanda,-1.9403,29.8739,287,168,0,119
+5/15/20,,Rwanda,-1.9403,29.8739,287,177,0,110
 1/22/20,,Saint Lucia,13.9094,-60.9789,0,0,0,0
 1/23/20,,Saint Lucia,13.9094,-60.9789,0,0,0,0
 1/24/20,,Saint Lucia,13.9094,-60.9789,0,0,0,0
@@ -21469,6 +21847,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Saint Lucia,13.9094,-60.9789,18,17,0,1
 5/12/20,,Saint Lucia,13.9094,-60.9789,18,17,0,1
 5/13/20,,Saint Lucia,13.9094,-60.9789,18,18,0,0
+5/14/20,,Saint Lucia,13.9094,-60.9789,18,18,0,0
+5/15/20,,Saint Lucia,13.9094,-60.9789,18,18,0,0
 1/22/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,0,0,0,0
 1/23/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,0,0,0,0
 1/24/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,0,0,0,0
@@ -21582,6 +21962,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,17,9,0,8
 5/12/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,17,12,0,5
 5/13/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,17,12,0,5
+5/14/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,17,12,0,5
+5/15/20,,Saint Vincent and the Grenadines,12.9843,-61.2872,17,14,0,3
 1/22/20,,San Marino,43.9424,12.4578,0,0,0,0
 1/23/20,,San Marino,43.9424,12.4578,0,0,0,0
 1/24/20,,San Marino,43.9424,12.4578,0,0,0,0
@@ -21695,6 +22077,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,San Marino,43.9424,12.4578,628,130,41,457
 5/12/20,,San Marino,43.9424,12.4578,638,161,41,436
 5/13/20,,San Marino,43.9424,12.4578,643,161,41,441
+5/14/20,,San Marino,43.9424,12.4578,648,172,41,435
+5/15/20,,San Marino,43.9424,12.4578,652,189,41,422
 1/22/20,,Saudi Arabia,24.0,45.0,0,0,0,0
 1/23/20,,Saudi Arabia,24.0,45.0,0,0,0,0
 1/24/20,,Saudi Arabia,24.0,45.0,0,0,0,0
@@ -21808,6 +22192,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Saudi Arabia,24.0,45.0,41014,12737,255,28022
 5/12/20,,Saudi Arabia,24.0,45.0,42925,15257,264,27404
 5/13/20,,Saudi Arabia,24.0,45.0,44830,17622,273,26935
+5/14/20,,Saudi Arabia,24.0,45.0,46869,19051,283,27535
+5/15/20,,Saudi Arabia,24.0,45.0,49176,21869,292,27015
 1/22/20,,Senegal,14.4974,-14.4524,0,0,0,0
 1/23/20,,Senegal,14.4974,-14.4524,0,0,0,0
 1/24/20,,Senegal,14.4974,-14.4524,0,0,0,0
@@ -21921,6 +22307,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Senegal,14.4974,-14.4524,1886,715,19,1152
 5/12/20,,Senegal,14.4974,-14.4524,1995,742,19,1234
 5/13/20,,Senegal,14.4974,-14.4524,2105,782,21,1302
+5/14/20,,Senegal,14.4974,-14.4524,2189,842,23,1324
+5/15/20,,Senegal,14.4974,-14.4524,2310,890,25,1395
 1/22/20,,Serbia,44.0165,21.0059,0,0,0,0
 1/23/20,,Serbia,44.0165,21.0059,0,0,0,0
 1/24/20,,Serbia,44.0165,21.0059,0,0,0,0
@@ -22034,6 +22422,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Serbia,44.0165,21.0059,10176,3290,218,6668
 5/12/20,,Serbia,44.0165,21.0059,10243,3600,220,6423
 5/13/20,,Serbia,44.0165,21.0059,10295,3824,222,6249
+5/14/20,,Serbia,44.0165,21.0059,10374,4084,224,6066
+5/15/20,,Serbia,44.0165,21.0059,10438,4301,225,5912
 1/22/20,,Seychelles,-4.6796,55.492,0,0,0,0
 1/23/20,,Seychelles,-4.6796,55.492,0,0,0,0
 1/24/20,,Seychelles,-4.6796,55.492,0,0,0,0
@@ -22147,6 +22537,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Seychelles,-4.6796,55.492,11,10,0,1
 5/12/20,,Seychelles,-4.6796,55.492,11,10,0,1
 5/13/20,,Seychelles,-4.6796,55.492,11,10,0,1
+5/14/20,,Seychelles,-4.6796,55.492,11,10,0,1
+5/15/20,,Seychelles,-4.6796,55.492,11,10,0,1
 1/22/20,,Singapore,1.2833,103.8333,0,0,0,0
 1/23/20,,Singapore,1.2833,103.8333,1,0,0,1
 1/24/20,,Singapore,1.2833,103.8333,3,0,0,3
@@ -22260,6 +22652,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Singapore,1.2833,103.8333,23822,3225,21,20576
 5/12/20,,Singapore,1.2833,103.8333,24671,3851,21,20799
 5/13/20,,Singapore,1.2833,103.8333,25346,4809,21,20516
+5/14/20,,Singapore,1.2833,103.8333,26098,5973,21,20104
+5/15/20,,Singapore,1.2833,103.8333,26891,7248,21,19622
 1/22/20,,Slovakia,48.669,19.699,0,0,0,0
 1/23/20,,Slovakia,48.669,19.699,0,0,0,0
 1/24/20,,Slovakia,48.669,19.699,0,0,0,0
@@ -22373,6 +22767,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Slovakia,48.669,19.699,1457,959,26,472
 5/12/20,,Slovakia,48.669,19.699,1465,983,27,455
 5/13/20,,Slovakia,48.669,19.699,1469,1060,27,382
+5/14/20,,Slovakia,48.669,19.699,1477,1112,27,338
+5/15/20,,Slovakia,48.669,19.699,1480,1131,27,322
 1/22/20,,Slovenia,46.1512,14.9955,0,0,0,0
 1/23/20,,Slovenia,46.1512,14.9955,0,0,0,0
 1/24/20,,Slovenia,46.1512,14.9955,0,0,0,0
@@ -22486,6 +22882,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Slovenia,46.1512,14.9955,1460,256,102,1102
 5/12/20,,Slovenia,46.1512,14.9955,1461,259,102,1100
 5/13/20,,Slovenia,46.1512,14.9955,1463,260,103,1100
+5/14/20,,Slovenia,46.1512,14.9955,1464,267,103,1094
+5/15/20,,Slovenia,46.1512,14.9955,1465,270,103,1092
 1/22/20,,Somalia,5.1521,46.1996,0,0,0,0
 1/23/20,,Somalia,5.1521,46.1996,0,0,0,0
 1/24/20,,Somalia,5.1521,46.1996,0,0,0,0
@@ -22599,6 +22997,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Somalia,5.1521,46.1996,1089,121,52,916
 5/12/20,,Somalia,5.1521,46.1996,1170,126,52,992
 5/13/20,,Somalia,5.1521,46.1996,1219,130,52,1037
+5/14/20,,Somalia,5.1521,46.1996,1284,135,53,1096
+5/15/20,,Somalia,5.1521,46.1996,1284,135,53,1096
 1/22/20,,South Africa,-30.5595,22.9375,0,0,0,0
 1/23/20,,South Africa,-30.5595,22.9375,0,0,0,0
 1/24/20,,South Africa,-30.5595,22.9375,0,0,0,0
@@ -22712,6 +23112,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,South Africa,-30.5595,22.9375,10652,4357,206,6089
 5/12/20,,South Africa,-30.5595,22.9375,11350,4357,206,6787
 5/13/20,,South Africa,-30.5595,22.9375,12074,4745,219,7110
+5/14/20,,South Africa,-30.5595,22.9375,12739,5676,238,6825
+5/15/20,,South Africa,-30.5595,22.9375,13524,6083,247,7194
 1/22/20,,Spain,40.0,-4.0,0,0,0,0
 1/23/20,,Spain,40.0,-4.0,0,0,0,0
 1/24/20,,Spain,40.0,-4.0,0,0,0,0
@@ -22825,6 +23227,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Spain,40.0,-4.0,227436,137139,26744,63553
 5/12/20,,Spain,40.0,-4.0,228030,138980,26920,62130
 5/13/20,,Spain,40.0,-4.0,228691,140823,27104,60764
+5/14/20,,Spain,40.0,-4.0,229540,143374,27321,58845
+5/15/20,,Spain,40.0,-4.0,230183,144783,27459,57941
 1/22/20,,Sri Lanka,7.0,81.0,0,0,0,0
 1/23/20,,Sri Lanka,7.0,81.0,0,0,0,0
 1/24/20,,Sri Lanka,7.0,81.0,0,0,0,0
@@ -22938,6 +23342,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Sri Lanka,7.0,81.0,869,343,9,517
 5/12/20,,Sri Lanka,7.0,81.0,889,366,9,514
 5/13/20,,Sri Lanka,7.0,81.0,915,382,9,524
+5/14/20,,Sri Lanka,7.0,81.0,925,445,9,471
+5/15/20,,Sri Lanka,7.0,81.0,935,477,9,449
 1/22/20,,Sudan,12.8628,30.2176,0,0,0,0
 1/23/20,,Sudan,12.8628,30.2176,0,0,0,0
 1/24/20,,Sudan,12.8628,30.2176,0,0,0,0
@@ -23051,6 +23457,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Sudan,12.8628,30.2176,1526,162,74,1290
 5/12/20,,Sudan,12.8628,30.2176,1661,173,80,1408
 5/13/20,,Sudan,12.8628,30.2176,1818,198,90,1530
+5/14/20,,Sudan,12.8628,30.2176,1818,198,90,1530
+5/15/20,,Sudan,12.8628,30.2176,1964,205,91,1668
 1/22/20,,Suriname,3.9193,-56.0278,0,0,0,0
 1/23/20,,Suriname,3.9193,-56.0278,0,0,0,0
 1/24/20,,Suriname,3.9193,-56.0278,0,0,0,0
@@ -23164,6 +23572,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Suriname,3.9193,-56.0278,10,9,1,0
 5/12/20,,Suriname,3.9193,-56.0278,10,9,1,0
 5/13/20,,Suriname,3.9193,-56.0278,10,9,1,0
+5/14/20,,Suriname,3.9193,-56.0278,10,9,1,0
+5/15/20,,Suriname,3.9193,-56.0278,10,9,1,0
 1/22/20,,Sweden,63.0,16.0,0,0,0,0
 1/23/20,,Sweden,63.0,16.0,0,0,0,0
 1/24/20,,Sweden,63.0,16.0,0,0,0,0
@@ -23277,6 +23687,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Sweden,63.0,16.0,26670,4971,3256,18443
 5/12/20,,Sweden,63.0,16.0,27272,4971,3313,18988
 5/13/20,,Sweden,63.0,16.0,27909,4971,3460,19478
+5/14/20,,Sweden,63.0,16.0,28582,4971,3529,20082
+5/15/20,,Sweden,63.0,16.0,29207,4971,3646,20590
 1/22/20,,Switzerland,46.8182,8.2275,0,0,0,0
 1/23/20,,Switzerland,46.8182,8.2275,0,0,0,0
 1/24/20,,Switzerland,46.8182,8.2275,0,0,0,0
@@ -23390,6 +23802,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Switzerland,46.8182,8.2275,30344,26800,1845,1699
 5/12/20,,Switzerland,46.8182,8.2275,30380,26800,1867,1713
 5/13/20,,Switzerland,46.8182,8.2275,30413,27100,1870,1443
+5/14/20,,Switzerland,46.8182,8.2275,30463,27100,1872,1491
+5/15/20,,Switzerland,46.8182,8.2275,30514,27100,1878,1536
 1/22/20,,Taiwan*,23.7,121.0,1,0,0,1
 1/23/20,,Taiwan*,23.7,121.0,1,0,0,1
 1/24/20,,Taiwan*,23.7,121.0,3,0,0,3
@@ -23503,6 +23917,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Taiwan*,23.7,121.0,440,368,7,65
 5/12/20,,Taiwan*,23.7,121.0,440,372,7,61
 5/13/20,,Taiwan*,23.7,121.0,440,375,7,58
+5/14/20,,Taiwan*,23.7,121.0,440,383,7,50
+5/15/20,,Taiwan*,23.7,121.0,440,387,7,46
 1/22/20,,Tanzania,-6.369,34.8888,0,0,0,0
 1/23/20,,Tanzania,-6.369,34.8888,0,0,0,0
 1/24/20,,Tanzania,-6.369,34.8888,0,0,0,0
@@ -23616,6 +24032,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Tanzania,-6.369,34.8888,509,183,21,305
 5/12/20,,Tanzania,-6.369,34.8888,509,183,21,305
 5/13/20,,Tanzania,-6.369,34.8888,509,183,21,305
+5/14/20,,Tanzania,-6.369,34.8888,509,183,21,305
+5/15/20,,Tanzania,-6.369,34.8888,509,183,21,305
 1/22/20,,Thailand,15.0,101.0,2,0,0,2
 1/23/20,,Thailand,15.0,101.0,3,0,0,3
 1/24/20,,Thailand,15.0,101.0,5,0,0,5
@@ -23729,6 +24147,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Thailand,15.0,101.0,3015,2796,56,163
 5/12/20,,Thailand,15.0,101.0,3017,2798,56,163
 5/13/20,,Thailand,15.0,101.0,3017,2844,56,117
+5/14/20,,Thailand,15.0,101.0,3018,2850,56,112
+5/15/20,,Thailand,15.0,101.0,3025,2854,56,115
 1/22/20,,Togo,8.6195,0.8248,0,0,0,0
 1/23/20,,Togo,8.6195,0.8248,0,0,0,0
 1/24/20,,Togo,8.6195,0.8248,0,0,0,0
@@ -23842,6 +24262,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Togo,8.6195,0.8248,181,89,11,81
 5/12/20,,Togo,8.6195,0.8248,199,92,11,96
 5/13/20,,Togo,8.6195,0.8248,219,96,11,112
+5/14/20,,Togo,8.6195,0.8248,238,96,11,131
+5/15/20,,Togo,8.6195,0.8248,263,96,11,156
 1/22/20,,Trinidad and Tobago,10.6918,-61.2225,0,0,0,0
 1/23/20,,Trinidad and Tobago,10.6918,-61.2225,0,0,0,0
 1/24/20,,Trinidad and Tobago,10.6918,-61.2225,0,0,0,0
@@ -23955,6 +24377,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Trinidad and Tobago,10.6918,-61.2225,116,107,8,1
 5/12/20,,Trinidad and Tobago,10.6918,-61.2225,116,107,8,1
 5/13/20,,Trinidad and Tobago,10.6918,-61.2225,116,107,8,1
+5/14/20,,Trinidad and Tobago,10.6918,-61.2225,116,107,8,1
+5/15/20,,Trinidad and Tobago,10.6918,-61.2225,116,107,8,1
 1/22/20,,Tunisia,34.0,9.0,0,0,0,0
 1/23/20,,Tunisia,34.0,9.0,0,0,0,0
 1/24/20,,Tunisia,34.0,9.0,0,0,0,0
@@ -24068,6 +24492,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Tunisia,34.0,9.0,1032,727,45,260
 5/12/20,,Tunisia,34.0,9.0,1032,740,45,247
 5/13/20,,Tunisia,34.0,9.0,1032,759,45,228
+5/14/20,,Tunisia,34.0,9.0,1032,770,45,217
+5/15/20,,Tunisia,34.0,9.0,1035,802,45,188
 1/22/20,,Turkey,38.9637,35.2433,0,0,0,0
 1/23/20,,Turkey,38.9637,35.2433,0,0,0,0
 1/24/20,,Turkey,38.9637,35.2433,0,0,0,0
@@ -24181,6 +24607,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Turkey,38.9637,35.2433,139771,95780,3841,40150
 5/12/20,,Turkey,38.9637,35.2433,141475,98889,3894,38692
 5/13/20,,Turkey,38.9637,35.2433,143114,101715,3952,37447
+5/14/20,,Turkey,38.9637,35.2433,144749,104030,4007,36712
+5/15/20,,Turkey,38.9637,35.2433,146457,106133,4055,36269
 1/22/20,,Uganda,1.0,32.0,0,0,0,0
 1/23/20,,Uganda,1.0,32.0,0,0,0,0
 1/24/20,,Uganda,1.0,32.0,0,0,0,0
@@ -24294,6 +24722,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Uganda,1.0,32.0,121,55,0,66
 5/12/20,,Uganda,1.0,32.0,129,55,0,74
 5/13/20,,Uganda,1.0,32.0,139,55,0,84
+5/14/20,,Uganda,1.0,32.0,160,63,0,97
+5/15/20,,Uganda,1.0,32.0,203,63,0,140
 1/22/20,,Ukraine,48.3794,31.1656,0,0,0,0
 1/23/20,,Ukraine,48.3794,31.1656,0,0,0,0
 1/24/20,,Ukraine,48.3794,31.1656,0,0,0,0
@@ -24407,6 +24837,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Ukraine,48.3794,31.1656,15648,3288,408,11952
 5/12/20,,Ukraine,48.3794,31.1656,16023,3373,425,12225
 5/13/20,,Ukraine,48.3794,31.1656,16425,3716,439,12270
+5/14/20,,Ukraine,48.3794,31.1656,16847,4143,456,12248
+5/15/20,,Ukraine,48.3794,31.1656,17330,4473,476,12381
 1/22/20,,United Arab Emirates,24.0,54.0,0,0,0,0
 1/23/20,,United Arab Emirates,24.0,54.0,0,0,0,0
 1/24/20,,United Arab Emirates,24.0,54.0,0,0,0,0
@@ -24520,6 +24952,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,United Arab Emirates,24.0,54.0,18878,5381,201,13296
 5/12/20,,United Arab Emirates,24.0,54.0,19661,6012,203,13446
 5/13/20,,United Arab Emirates,24.0,54.0,20386,6523,206,13657
+5/14/20,,United Arab Emirates,24.0,54.0,21084,6930,208,13946
+5/15/20,,United Arab Emirates,24.0,54.0,21831,7328,210,14293
 1/22/20,Bermuda,United Kingdom,32.3078,-64.7505,0,0,0,0
 1/23/20,Bermuda,United Kingdom,32.3078,-64.7505,0,0,0,0
 1/24/20,Bermuda,United Kingdom,32.3078,-64.7505,0,0,0,0
@@ -24633,6 +25067,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Bermuda,United Kingdom,32.3078,-64.7505,119,66,8,45
 5/12/20,Bermuda,United Kingdom,32.3078,-64.7505,121,66,8,47
 5/13/20,Bermuda,United Kingdom,32.3078,-64.7505,121,66,8,47
+5/14/20,Bermuda,United Kingdom,32.3078,-64.7505,122,66,9,47
+5/15/20,Bermuda,United Kingdom,32.3078,-64.7505,122,66,9,47
 1/22/20,Cayman Islands,United Kingdom,19.3133,-81.2546,0,0,0,0
 1/23/20,Cayman Islands,United Kingdom,19.3133,-81.2546,0,0,0,0
 1/24/20,Cayman Islands,United Kingdom,19.3133,-81.2546,0,0,0,0
@@ -24746,6 +25182,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Cayman Islands,United Kingdom,19.3133,-81.2546,84,47,1,36
 5/12/20,Cayman Islands,United Kingdom,19.3133,-81.2546,85,50,1,34
 5/13/20,Cayman Islands,United Kingdom,19.3133,-81.2546,86,54,1,31
+5/14/20,Cayman Islands,United Kingdom,19.3133,-81.2546,93,54,1,38
+5/15/20,Cayman Islands,United Kingdom,19.3133,-81.2546,94,55,1,38
 1/22/20,Channel Islands,United Kingdom,49.3723,-2.3644,0,0,0,0
 1/23/20,Channel Islands,United Kingdom,49.3723,-2.3644,0,0,0,0
 1/24/20,Channel Islands,United Kingdom,49.3723,-2.3644,0,0,0,0
@@ -24859,6 +25297,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Channel Islands,United Kingdom,49.3723,-2.3644,546,452,41,53
 5/12/20,Channel Islands,United Kingdom,49.3723,-2.3644,547,455,42,50
 5/13/20,Channel Islands,United Kingdom,49.3723,-2.3644,548,456,43,49
+5/14/20,Channel Islands,United Kingdom,49.3723,-2.3644,549,456,43,50
+5/15/20,Channel Islands,United Kingdom,49.3723,-2.3644,549,457,43,49
 1/22/20,Gibraltar,United Kingdom,36.1408,-5.3536,0,0,0,0
 1/23/20,Gibraltar,United Kingdom,36.1408,-5.3536,0,0,0,0
 1/24/20,Gibraltar,United Kingdom,36.1408,-5.3536,0,0,0,0
@@ -24972,6 +25412,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Gibraltar,United Kingdom,36.1408,-5.3536,147,143,0,4
 5/12/20,Gibraltar,United Kingdom,36.1408,-5.3536,148,144,0,4
 5/13/20,Gibraltar,United Kingdom,36.1408,-5.3536,147,144,0,3
+5/14/20,Gibraltar,United Kingdom,36.1408,-5.3536,147,144,0,3
+5/15/20,Gibraltar,United Kingdom,36.1408,-5.3536,147,144,0,3
 1/22/20,Isle of Man,United Kingdom,54.2361,-4.5481,0,0,0,0
 1/23/20,Isle of Man,United Kingdom,54.2361,-4.5481,0,0,0,0
 1/24/20,Isle of Man,United Kingdom,54.2361,-4.5481,0,0,0,0
@@ -25085,6 +25527,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Isle of Man,United Kingdom,54.2361,-4.5481,330,271,23,36
 5/12/20,Isle of Man,United Kingdom,54.2361,-4.5481,331,272,23,36
 5/13/20,Isle of Man,United Kingdom,54.2361,-4.5481,332,274,23,35
+5/14/20,Isle of Man,United Kingdom,54.2361,-4.5481,332,285,23,24
+5/15/20,Isle of Man,United Kingdom,54.2361,-4.5481,334,285,24,25
 1/22/20,Montserrat,United Kingdom,16.7425,-62.1874,0,0,0,0
 1/23/20,Montserrat,United Kingdom,16.7425,-62.1874,0,0,0,0
 1/24/20,Montserrat,United Kingdom,16.7425,-62.1874,0,0,0,0
@@ -25198,6 +25642,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Montserrat,United Kingdom,16.7425,-62.1874,11,8,1,2
 5/12/20,Montserrat,United Kingdom,16.7425,-62.1874,11,8,1,2
 5/13/20,Montserrat,United Kingdom,16.7425,-62.1874,11,8,1,2
+5/14/20,Montserrat,United Kingdom,16.7425,-62.1874,11,8,1,2
+5/15/20,Montserrat,United Kingdom,16.7425,-62.1874,11,8,1,2
 1/22/20,,United Kingdom,55.3781,-3.4360000000000004,0,0,0,0
 1/23/20,,United Kingdom,55.3781,-3.4360000000000004,0,0,0,0
 1/24/20,,United Kingdom,55.3781,-3.4360000000000004,0,0,0,0
@@ -25311,6 +25757,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,United Kingdom,55.3781,-3.4360000000000004,223060,0,32065,190995
 5/12/20,,United Kingdom,55.3781,-3.4360000000000004,226463,0,32692,193771
 5/13/20,,United Kingdom,55.3781,-3.4360000000000004,229705,0,33186,196519
+5/14/20,,United Kingdom,55.3781,-3.4360000000000004,233151,0,33614,199537
+5/15/20,,United Kingdom,55.3781,-3.4360000000000004,236711,0,33998,202713
 1/22/20,,Uruguay,-32.5228,-55.7658,0,0,0,0
 1/23/20,,Uruguay,-32.5228,-55.7658,0,0,0,0
 1/24/20,,Uruguay,-32.5228,-55.7658,0,0,0,0
@@ -25424,6 +25872,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Uruguay,-32.5228,-55.7658,711,523,19,169
 5/12/20,,Uruguay,-32.5228,-55.7658,717,532,19,166
 5/13/20,,Uruguay,-32.5228,-55.7658,719,545,19,155
+5/14/20,,Uruguay,-32.5228,-55.7658,724,547,19,158
+5/15/20,,Uruguay,-32.5228,-55.7658,732,553,19,160
 1/22/20,,US,37.0902,-95.7129,1,0,0,1
 1/23/20,,US,37.0902,-95.7129,1,0,0,1
 1/24/20,,US,37.0902,-95.7129,2,0,0,2
@@ -25537,6 +25987,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,US,37.0902,-95.7129,1347881,232733,80682,1034466
 5/12/20,,US,37.0902,-95.7129,1369376,230287,82356,1056733
 5/13/20,,US,37.0902,-95.7129,1390406,243430,84119,1062857
+5/14/20,,US,37.0902,-95.7129,1417774,246414,85898,1085462
+5/15/20,,US,37.0902,-95.7129,1442824,250747,87530,1104547
 1/22/20,,Uzbekistan,41.3775,64.5853,0,0,0,0
 1/23/20,,Uzbekistan,41.3775,64.5853,0,0,0,0
 1/24/20,,Uzbekistan,41.3775,64.5853,0,0,0,0
@@ -25650,6 +26102,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Uzbekistan,41.3775,64.5853,2486,1988,10,488
 5/12/20,,Uzbekistan,41.3775,64.5853,2519,2010,10,499
 5/13/20,,Uzbekistan,41.3775,64.5853,2612,2076,11,525
+5/14/20,,Uzbekistan,41.3775,64.5853,2645,2136,11,498
+5/15/20,,Uzbekistan,41.3775,64.5853,2686,2158,11,517
 1/22/20,,Venezuela,6.4238,-66.5897,0,0,0,0
 1/23/20,,Venezuela,6.4238,-66.5897,0,0,0,0
 1/24/20,,Venezuela,6.4238,-66.5897,0,0,0,0
@@ -25763,6 +26217,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Venezuela,6.4238,-66.5897,422,205,10,207
 5/12/20,,Venezuela,6.4238,-66.5897,423,220,10,193
 5/13/20,,Venezuela,6.4238,-66.5897,423,220,10,193
+5/14/20,,Venezuela,6.4238,-66.5897,455,220,10,225
+5/15/20,,Venezuela,6.4238,-66.5897,459,229,10,220
 1/22/20,,Vietnam,16.0,108.0,0,0,0,0
 1/23/20,,Vietnam,16.0,108.0,2,0,0,2
 1/24/20,,Vietnam,16.0,108.0,2,0,0,2
@@ -25876,6 +26332,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Vietnam,16.0,108.0,288,249,0,39
 5/12/20,,Vietnam,16.0,108.0,288,252,0,36
 5/13/20,,Vietnam,16.0,108.0,288,252,0,36
+5/14/20,,Vietnam,16.0,108.0,312,260,0,52
+5/15/20,,Vietnam,16.0,108.0,314,260,0,54
 1/22/20,,Zambia,-15.4167,28.2833,0,0,0,0
 1/23/20,,Zambia,-15.4167,28.2833,0,0,0,0
 1/24/20,,Zambia,-15.4167,28.2833,0,0,0,0
@@ -25989,6 +26447,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Zambia,-15.4167,28.2833,267,117,7,143
 5/12/20,,Zambia,-15.4167,28.2833,441,117,7,317
 5/13/20,,Zambia,-15.4167,28.2833,446,124,7,315
+5/14/20,,Zambia,-15.4167,28.2833,654,124,7,523
+5/15/20,,Zambia,-15.4167,28.2833,654,124,7,523
 1/22/20,,Zimbabwe,-20.0,30.0,0,0,0,0
 1/23/20,,Zimbabwe,-20.0,30.0,0,0,0,0
 1/24/20,,Zimbabwe,-20.0,30.0,0,0,0,0
@@ -26102,6 +26562,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Zimbabwe,-20.0,30.0,36,9,4,23
 5/12/20,,Zimbabwe,-20.0,30.0,36,9,4,23
 5/13/20,,Zimbabwe,-20.0,30.0,37,12,4,21
+5/14/20,,Zimbabwe,-20.0,30.0,37,13,4,20
+5/15/20,,Zimbabwe,-20.0,30.0,42,13,4,25
 1/22/20,Diamond Princess,Canada,0.0,0.0,0,0,0,0
 1/23/20,Diamond Princess,Canada,0.0,0.0,0,0,0,0
 1/24/20,Diamond Princess,Canada,0.0,0.0,0,0,0,0
@@ -26215,6 +26677,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Diamond Princess,Canada,0.0,0.0,1,0,1,0
 5/12/20,Diamond Princess,Canada,0.0,0.0,1,0,1,0
 5/13/20,Diamond Princess,Canada,0.0,0.0,1,0,1,0
+5/14/20,Diamond Princess,Canada,0.0,0.0,1,0,1,0
+5/15/20,Diamond Princess,Canada,0.0,0.0,1,0,1,0
 1/22/20,,Dominica,15.415,-61.371,0,0,0,0
 1/23/20,,Dominica,15.415,-61.371,0,0,0,0
 1/24/20,,Dominica,15.415,-61.371,0,0,0,0
@@ -26328,6 +26792,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Dominica,15.415,-61.371,16,15,0,1
 5/12/20,,Dominica,15.415,-61.371,16,15,0,1
 5/13/20,,Dominica,15.415,-61.371,16,15,0,1
+5/14/20,,Dominica,15.415,-61.371,16,15,0,1
+5/15/20,,Dominica,15.415,-61.371,16,15,0,1
 1/22/20,,Grenada,12.1165,-61.679,0,0,0,0
 1/23/20,,Grenada,12.1165,-61.679,0,0,0,0
 1/24/20,,Grenada,12.1165,-61.679,0,0,0,0
@@ -26441,6 +26907,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Grenada,12.1165,-61.679,21,13,0,8
 5/12/20,,Grenada,12.1165,-61.679,21,13,0,8
 5/13/20,,Grenada,12.1165,-61.679,21,13,0,8
+5/14/20,,Grenada,12.1165,-61.679,21,14,0,7
+5/15/20,,Grenada,12.1165,-61.679,22,14,0,8
 1/22/20,,Mozambique,-18.665695,35.529562,0,0,0,0
 1/23/20,,Mozambique,-18.665695,35.529562,0,0,0,0
 1/24/20,,Mozambique,-18.665695,35.529562,0,0,0,0
@@ -26554,6 +27022,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mozambique,-18.665695,35.529562,103,0,0,103
 5/12/20,,Mozambique,-18.665695,35.529562,104,0,0,104
 5/13/20,,Mozambique,-18.665695,35.529562,104,0,0,104
+5/14/20,,Mozambique,-18.665695,35.529562,115,0,0,115
+5/15/20,,Mozambique,-18.665695,35.529562,119,0,0,119
 1/22/20,,Syria,34.802075,38.99681500000001,0,0,0,0
 1/23/20,,Syria,34.802075,38.99681500000001,0,0,0,0
 1/24/20,,Syria,34.802075,38.99681500000001,0,0,0,0
@@ -26667,6 +27137,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Syria,34.802075,38.99681500000001,47,0,3,44
 5/12/20,,Syria,34.802075,38.99681500000001,47,0,3,44
 5/13/20,,Syria,34.802075,38.99681500000001,48,0,3,45
+5/14/20,,Syria,34.802075,38.99681500000001,48,0,3,45
+5/15/20,,Syria,34.802075,38.99681500000001,50,0,3,47
 1/22/20,,Timor-Leste,-8.874217,125.727539,0,0,0,0
 1/23/20,,Timor-Leste,-8.874217,125.727539,0,0,0,0
 1/24/20,,Timor-Leste,-8.874217,125.727539,0,0,0,0
@@ -26780,6 +27252,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Timor-Leste,-8.874217,125.727539,24,0,0,24
 5/12/20,,Timor-Leste,-8.874217,125.727539,24,0,0,24
 5/13/20,,Timor-Leste,-8.874217,125.727539,24,0,0,24
+5/14/20,,Timor-Leste,-8.874217,125.727539,24,0,0,24
+5/15/20,,Timor-Leste,-8.874217,125.727539,24,0,0,24
 1/22/20,,Belize,13.1939,-59.5432,0,0,0,0
 1/23/20,,Belize,13.1939,-59.5432,0,0,0,0
 1/24/20,,Belize,13.1939,-59.5432,0,0,0,0
@@ -26893,6 +27367,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Belize,13.1939,-59.5432,18,16,2,0
 5/12/20,,Belize,13.1939,-59.5432,18,16,2,0
 5/13/20,,Belize,13.1939,-59.5432,18,16,2,0
+5/14/20,,Belize,13.1939,-59.5432,18,16,2,0
+5/15/20,,Belize,13.1939,-59.5432,18,16,2,0
 1/22/20,,Laos,19.85627,102.495496,0,0,0,0
 1/23/20,,Laos,19.85627,102.495496,0,0,0,0
 1/24/20,,Laos,19.85627,102.495496,0,0,0,0
@@ -27006,6 +27482,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Laos,19.85627,102.495496,19,13,0,6
 5/12/20,,Laos,19.85627,102.495496,19,13,0,6
 5/13/20,,Laos,19.85627,102.495496,19,14,0,5
+5/14/20,,Laos,19.85627,102.495496,19,14,0,5
+5/15/20,,Laos,19.85627,102.495496,19,14,0,5
 1/22/20,,Libya,26.3351,17.228331,0,0,0,0
 1/23/20,,Libya,26.3351,17.228331,0,0,0,0
 1/24/20,,Libya,26.3351,17.228331,0,0,0,0
@@ -27119,6 +27597,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Libya,26.3351,17.228331,64,28,3,33
 5/12/20,,Libya,26.3351,17.228331,64,28,3,33
 5/13/20,,Libya,26.3351,17.228331,64,28,3,33
+5/14/20,,Libya,26.3351,17.228331,64,28,3,33
+5/15/20,,Libya,26.3351,17.228331,64,28,3,33
 1/22/20,,West Bank and Gaza,31.9522,35.2332,0,0,0,0
 1/23/20,,West Bank and Gaza,31.9522,35.2332,0,0,0,0
 1/24/20,,West Bank and Gaza,31.9522,35.2332,0,0,0,0
@@ -27232,6 +27712,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,West Bank and Gaza,31.9522,35.2332,375,301,2,72
 5/12/20,,West Bank and Gaza,31.9522,35.2332,375,308,2,65
 5/13/20,,West Bank and Gaza,31.9522,35.2332,375,310,2,63
+5/14/20,,West Bank and Gaza,31.9522,35.2332,375,310,2,63
+5/15/20,,West Bank and Gaza,31.9522,35.2332,375,315,2,58
 1/22/20,,Guinea-Bissau,11.8037,-15.1804,0,0,0,0
 1/23/20,,Guinea-Bissau,11.8037,-15.1804,0,0,0,0
 1/24/20,,Guinea-Bissau,11.8037,-15.1804,0,0,0,0
@@ -27345,6 +27827,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Guinea-Bissau,11.8037,-15.1804,761,26,3,732
 5/12/20,,Guinea-Bissau,11.8037,-15.1804,820,26,3,791
 5/13/20,,Guinea-Bissau,11.8037,-15.1804,836,26,3,807
+5/14/20,,Guinea-Bissau,11.8037,-15.1804,913,26,3,884
+5/15/20,,Guinea-Bissau,11.8037,-15.1804,913,26,3,884
 1/22/20,,Mali,17.570692,-3.996166000000001,0,0,0,0
 1/23/20,,Mali,17.570692,-3.996166000000001,0,0,0,0
 1/24/20,,Mali,17.570692,-3.996166000000001,0,0,0,0
@@ -27458,6 +27942,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mali,17.570692,-3.996166000000001,712,377,39,296
 5/12/20,,Mali,17.570692,-3.996166000000001,730,398,40,292
 5/13/20,,Mali,17.570692,-3.996166000000001,758,412,44,302
+5/14/20,,Mali,17.570692,-3.996166000000001,779,436,46,297
+5/15/20,,Mali,17.570692,-3.996166000000001,806,455,46,305
 1/22/20,,Saint Kitts and Nevis,17.357822,-62.782998,0,0,0,0
 1/23/20,,Saint Kitts and Nevis,17.357822,-62.782998,0,0,0,0
 1/24/20,,Saint Kitts and Nevis,17.357822,-62.782998,0,0,0,0
@@ -27571,6 +28057,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Saint Kitts and Nevis,17.357822,-62.782998,15,14,0,1
 5/12/20,,Saint Kitts and Nevis,17.357822,-62.782998,15,14,0,1
 5/13/20,,Saint Kitts and Nevis,17.357822,-62.782998,15,14,0,1
+5/14/20,,Saint Kitts and Nevis,17.357822,-62.782998,15,14,0,1
+5/15/20,,Saint Kitts and Nevis,17.357822,-62.782998,15,14,0,1
 1/22/20,Northwest Territories,Canada,64.8255,-124.8457,0,0,0,0
 1/23/20,Northwest Territories,Canada,64.8255,-124.8457,0,0,0,0
 1/24/20,Northwest Territories,Canada,64.8255,-124.8457,0,0,0,0
@@ -27684,6 +28172,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Northwest Territories,Canada,64.8255,-124.8457,5,0,0,5
 5/12/20,Northwest Territories,Canada,64.8255,-124.8457,5,0,0,5
 5/13/20,Northwest Territories,Canada,64.8255,-124.8457,5,0,0,5
+5/14/20,Northwest Territories,Canada,64.8255,-124.8457,5,0,0,5
+5/15/20,Northwest Territories,Canada,64.8255,-124.8457,5,0,0,5
 1/22/20,Yukon,Canada,64.2823,-135.0,0,0,0,0
 1/23/20,Yukon,Canada,64.2823,-135.0,0,0,0,0
 1/24/20,Yukon,Canada,64.2823,-135.0,0,0,0,0
@@ -27797,6 +28287,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Yukon,Canada,64.2823,-135.0,11,0,0,11
 5/12/20,Yukon,Canada,64.2823,-135.0,11,0,0,11
 5/13/20,Yukon,Canada,64.2823,-135.0,11,0,0,11
+5/14/20,Yukon,Canada,64.2823,-135.0,11,0,0,11
+5/15/20,Yukon,Canada,64.2823,-135.0,11,0,0,11
 1/22/20,,Kosovo,42.602636,20.902977,0,0,0,0
 1/23/20,,Kosovo,42.602636,20.902977,0,0,0,0
 1/24/20,,Kosovo,42.602636,20.902977,0,0,0,0
@@ -27910,6 +28402,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Kosovo,42.602636,20.902977,884,655,28,201
 5/12/20,,Kosovo,42.602636,20.902977,919,671,29,219
 5/13/20,,Kosovo,42.602636,20.902977,919,671,29,219
+5/14/20,,Kosovo,42.602636,20.902977,944,690,29,225
+5/15/20,,Kosovo,42.602636,20.902977,944,690,29,225
 1/22/20,,Burma,21.9162,95.956,0,0,0,0
 1/23/20,,Burma,21.9162,95.956,0,0,0,0
 1/24/20,,Burma,21.9162,95.956,0,0,0,0
@@ -28023,6 +28517,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Burma,21.9162,95.956,180,74,6,100
 5/12/20,,Burma,21.9162,95.956,180,76,6,98
 5/13/20,,Burma,21.9162,95.956,181,79,6,96
+5/14/20,,Burma,21.9162,95.956,181,84,6,91
+5/15/20,,Burma,21.9162,95.956,182,89,6,87
 1/22/20,Anguilla,United Kingdom,18.2206,-63.0686,0,0,0,0
 1/23/20,Anguilla,United Kingdom,18.2206,-63.0686,0,0,0,0
 1/24/20,Anguilla,United Kingdom,18.2206,-63.0686,0,0,0,0
@@ -28136,6 +28632,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Anguilla,United Kingdom,18.2206,-63.0686,3,3,0,0
 5/12/20,Anguilla,United Kingdom,18.2206,-63.0686,3,3,0,0
 5/13/20,Anguilla,United Kingdom,18.2206,-63.0686,3,3,0,0
+5/14/20,Anguilla,United Kingdom,18.2206,-63.0686,3,3,0,0
+5/15/20,Anguilla,United Kingdom,18.2206,-63.0686,3,3,0,0
 1/22/20,British Virgin Islands,United Kingdom,18.4207,-64.64,0,0,0,0
 1/23/20,British Virgin Islands,United Kingdom,18.4207,-64.64,0,0,0,0
 1/24/20,British Virgin Islands,United Kingdom,18.4207,-64.64,0,0,0,0
@@ -28249,6 +28747,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,British Virgin Islands,United Kingdom,18.4207,-64.64,7,4,1,2
 5/12/20,British Virgin Islands,United Kingdom,18.4207,-64.64,7,4,1,2
 5/13/20,British Virgin Islands,United Kingdom,18.4207,-64.64,7,4,1,2
+5/14/20,British Virgin Islands,United Kingdom,18.4207,-64.64,7,4,1,2
+5/15/20,British Virgin Islands,United Kingdom,18.4207,-64.64,8,6,1,1
 1/22/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,0,0,0,0
 1/23/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,0,0,0,0
 1/24/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,0,0,0,0
@@ -28362,6 +28862,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,12,8,1,3
 5/12/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,12,8,1,3
 5/13/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,12,10,1,1
+5/14/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,12,10,1,1
+5/15/20,Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,12,10,1,1
 1/22/20,,MS Zaandam,0.0,0.0,0,0,0,0
 1/23/20,,MS Zaandam,0.0,0.0,0,0,0,0
 1/24/20,,MS Zaandam,0.0,0.0,0,0,0,0
@@ -28475,6 +28977,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,MS Zaandam,0.0,0.0,9,0,2,7
 5/12/20,,MS Zaandam,0.0,0.0,9,0,2,7
 5/13/20,,MS Zaandam,0.0,0.0,9,0,2,7
+5/14/20,,MS Zaandam,0.0,0.0,9,0,2,7
+5/15/20,,MS Zaandam,0.0,0.0,9,0,2,7
 1/22/20,,Botswana,-22.3285,24.6849,0,0,0,0
 1/23/20,,Botswana,-22.3285,24.6849,0,0,0,0
 1/24/20,,Botswana,-22.3285,24.6849,0,0,0,0
@@ -28588,6 +29092,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Botswana,-22.3285,24.6849,24,12,1,11
 5/12/20,,Botswana,-22.3285,24.6849,24,17,1,6
 5/13/20,,Botswana,-22.3285,24.6849,24,17,1,6
+5/14/20,,Botswana,-22.3285,24.6849,24,17,1,6
+5/15/20,,Botswana,-22.3285,24.6849,24,17,1,6
 1/22/20,,Burundi,-3.3731,29.9189,0,0,0,0
 1/23/20,,Burundi,-3.3731,29.9189,0,0,0,0
 1/24/20,,Burundi,-3.3731,29.9189,0,0,0,0
@@ -28701,6 +29207,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Burundi,-3.3731,29.9189,15,7,1,7
 5/12/20,,Burundi,-3.3731,29.9189,15,7,1,7
 5/13/20,,Burundi,-3.3731,29.9189,15,7,1,7
+5/14/20,,Burundi,-3.3731,29.9189,15,7,1,7
+5/15/20,,Burundi,-3.3731,29.9189,15,7,1,7
 1/22/20,,Sierra Leone,8.460555000000001,-11.779889,0,0,0,0
 1/23/20,,Sierra Leone,8.460555000000001,-11.779889,0,0,0,0
 1/24/20,,Sierra Leone,8.460555000000001,-11.779889,0,0,0,0
@@ -28814,6 +29322,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Sierra Leone,8.460555000000001,-11.779889,338,72,19,247
 5/12/20,,Sierra Leone,8.460555000000001,-11.779889,338,72,19,247
 5/13/20,,Sierra Leone,8.460555000000001,-11.779889,387,97,26,264
+5/14/20,,Sierra Leone,8.460555000000001,-11.779889,408,97,26,285
+5/15/20,,Sierra Leone,8.460555000000001,-11.779889,447,97,27,323
 1/22/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,0,0,0,0
 1/23/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,0,0,0,0
 1/24/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,0,0,0,0
@@ -28927,6 +29437,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,6,0,0,6
 5/12/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,6,0,0,6
 5/13/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,6,6,0,0
+5/14/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,6,6,0,0
+5/15/20,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,6,6,0,0
 1/22/20,,Malawi,-13.254307999999998,34.301525,0,0,0,0
 1/23/20,,Malawi,-13.254307999999998,34.301525,0,0,0,0
 1/24/20,,Malawi,-13.254307999999998,34.301525,0,0,0,0
@@ -29040,6 +29552,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Malawi,-13.254307999999998,34.301525,57,24,3,30
 5/12/20,,Malawi,-13.254307999999998,34.301525,57,24,3,30
 5/13/20,,Malawi,-13.254307999999998,34.301525,63,24,3,36
+5/14/20,,Malawi,-13.254307999999998,34.301525,63,24,3,36
+5/15/20,,Malawi,-13.254307999999998,34.301525,63,24,3,36
 1/22/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,0,0,0,0
 1/23/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,0,0,0,0
 1/24/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,0,0,0,0
@@ -29153,6 +29667,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,13,13,0,0
 5/12/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,13,13,0,0
 5/13/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,13,13,0,0
+5/14/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,13,13,0,0
+5/15/20,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,13,13,0,0
 1/22/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,0,0,0,0
 1/23/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,0,0,0,0
 1/24/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,0,0,0,0
@@ -29266,6 +29782,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,1,1,0,0
 5/12/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,1,1,0,0
 5/13/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,1,1,0,0
+5/14/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,1,1,0,0
+5/15/20,Saint Pierre and Miquelon,France,46.8852,-56.3159,1,1,0,0
 1/22/20,,South Sudan,6.877000000000002,31.307,0,0,0,0
 1/23/20,,South Sudan,6.877000000000002,31.307,0,0,0,0
 1/24/20,,South Sudan,6.877000000000002,31.307,0,0,0,0
@@ -29379,6 +29897,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,South Sudan,6.877000000000002,31.307,156,2,0,154
 5/12/20,,South Sudan,6.877000000000002,31.307,194,2,0,192
 5/13/20,,South Sudan,6.877000000000002,31.307,203,2,0,201
+5/14/20,,South Sudan,6.877000000000002,31.307,203,3,0,200
+5/15/20,,South Sudan,6.877000000000002,31.307,236,4,4,228
 1/22/20,,Western Sahara,24.2155,-12.8858,0,0,0,0
 1/23/20,,Western Sahara,24.2155,-12.8858,0,0,0,0
 1/24/20,,Western Sahara,24.2155,-12.8858,0,0,0,0
@@ -29492,6 +30012,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Western Sahara,24.2155,-12.8858,6,6,0,0
 5/12/20,,Western Sahara,24.2155,-12.8858,6,6,0,0
 5/13/20,,Western Sahara,24.2155,-12.8858,6,6,0,0
+5/14/20,,Western Sahara,24.2155,-12.8858,6,6,0,0
+5/15/20,,Western Sahara,24.2155,-12.8858,6,6,0,0
 1/22/20,,Sao Tome and Principe,0.18636,6.613081,0,0,0,0
 1/23/20,,Sao Tome and Principe,0.18636,6.613081,0,0,0,0
 1/24/20,,Sao Tome and Principe,0.18636,6.613081,0,0,0,0
@@ -29605,6 +30127,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Sao Tome and Principe,0.18636,6.613081,208,4,5,199
 5/12/20,,Sao Tome and Principe,0.18636,6.613081,208,4,5,199
 5/13/20,,Sao Tome and Principe,0.18636,6.613081,220,4,6,210
+5/14/20,,Sao Tome and Principe,0.18636,6.613081,235,4,7,224
+5/15/20,,Sao Tome and Principe,0.18636,6.613081,235,4,7,224
 1/22/20,,Yemen,15.552727,48.516388,0,0,0,0
 1/23/20,,Yemen,15.552727,48.516388,0,0,0,0
 1/24/20,,Yemen,15.552727,48.516388,0,0,0,0
@@ -29718,6 +30242,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Yemen,15.552727,48.516388,56,1,9,46
 5/12/20,,Yemen,15.552727,48.516388,65,1,10,54
 5/13/20,,Yemen,15.552727,48.516388,70,1,12,57
+5/14/20,,Yemen,15.552727,48.516388,85,1,12,72
+5/15/20,,Yemen,15.552727,48.516388,106,1,15,90
 1/22/20,,Comoros,-11.6455,43.3333,0,0,0,0
 1/23/20,,Comoros,-11.6455,43.3333,0,0,0,0
 1/24/20,,Comoros,-11.6455,43.3333,0,0,0,0
@@ -29831,6 +30357,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Comoros,-11.6455,43.3333,11,0,1,10
 5/12/20,,Comoros,-11.6455,43.3333,11,0,1,10
 5/13/20,,Comoros,-11.6455,43.3333,11,0,1,10
+5/14/20,,Comoros,-11.6455,43.3333,11,3,1,7
+5/15/20,,Comoros,-11.6455,43.3333,11,3,1,7
 1/22/20,,Tajikistan,38.861034,71.276093,0,0,0,0
 1/23/20,,Tajikistan,38.861034,71.276093,0,0,0,0
 1/24/20,,Tajikistan,38.861034,71.276093,0,0,0,0
@@ -29944,6 +30472,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Tajikistan,38.861034,71.276093,661,0,21,640
 5/12/20,,Tajikistan,38.861034,71.276093,729,0,21,708
 5/13/20,,Tajikistan,38.861034,71.276093,801,0,23,778
+5/14/20,,Tajikistan,38.861034,71.276093,907,0,29,878
+5/15/20,,Tajikistan,38.861034,71.276093,1118,0,33,1085
 1/22/20,,Lesotho,-29.609988,28.233608,0,0,0,0
 1/23/20,,Lesotho,-29.609988,28.233608,0,0,0,0
 1/24/20,,Lesotho,-29.609988,28.233608,0,0,0,0
@@ -30057,6 +30587,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Lesotho,-29.609988,28.233608,0,0,0,0
 5/12/20,,Lesotho,-29.609988,28.233608,0,0,0,0
 5/13/20,,Lesotho,-29.609988,28.233608,1,0,0,1
+5/14/20,,Lesotho,-29.609988,28.233608,1,0,0,1
+5/15/20,,Lesotho,-29.609988,28.233608,1,0,0,1
 1/22/20,,Canada,56.1304,-106.3468,0,0,0,0
 1/23/20,,Canada,56.1304,-106.3468,0,0,0,0
 1/24/20,,Canada,56.1304,-106.3468,0,0,0,0
@@ -30170,6 +30702,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Canada,56.1304,-106.3468,0,33007,0,-33007
 5/12/20,,Canada,56.1304,-106.3468,0,34055,0,-34055
 5/13/20,,Canada,56.1304,-106.3468,0,35177,0,-35177
+5/14/20,,Canada,56.1304,-106.3468,0,36104,0,-36104
+5/15/20,,Canada,56.1304,-106.3468,0,36908,0,-36908
 1/22/20,,Mozambique,-18.6657,35.5296,0,0,0,0
 1/23/20,,Mozambique,-18.6657,35.5296,0,0,0,0
 1/24/20,,Mozambique,-18.6657,35.5296,0,0,0,0
@@ -30283,6 +30817,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Mozambique,-18.6657,35.5296,0,34,0,-34
 5/12/20,,Mozambique,-18.6657,35.5296,0,34,0,-34
 5/13/20,,Mozambique,-18.6657,35.5296,0,34,0,-34
+5/14/20,,Mozambique,-18.6657,35.5296,0,35,0,-35
+5/15/20,,Mozambique,-18.6657,35.5296,0,42,0,-42
 1/22/20,,Syria,34.8021,38.9968,0,0,0,0
 1/23/20,,Syria,34.8021,38.9968,0,0,0,0
 1/24/20,,Syria,34.8021,38.9968,0,0,0,0
@@ -30396,6 +30932,8 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Syria,34.8021,38.9968,0,29,0,-29
 5/12/20,,Syria,34.8021,38.9968,0,29,0,-29
 5/13/20,,Syria,34.8021,38.9968,0,29,0,-29
+5/14/20,,Syria,34.8021,38.9968,0,29,0,-29
+5/15/20,,Syria,34.8021,38.9968,0,36,0,-36
 1/22/20,,Timor-Leste,-8.8742,125.7275,0,0,0,0
 1/23/20,,Timor-Leste,-8.8742,125.7275,0,0,0,0
 1/24/20,,Timor-Leste,-8.8742,125.7275,0,0,0,0
@@ -30509,3 +31047,5 @@ Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active
 5/11/20,,Timor-Leste,-8.8742,125.7275,0,21,0,-21
 5/12/20,,Timor-Leste,-8.8742,125.7275,0,21,0,-21
 5/13/20,,Timor-Leste,-8.8742,125.7275,0,21,0,-21
+5/14/20,,Timor-Leste,-8.8742,125.7275,0,21,0,-21
+5/15/20,,Timor-Leste,-8.8742,125.7275,0,24,0,-24
